@@ -1,0 +1,431 @@
+VII release - 14.05.2023
+Added New sounds for small arms, handgrenades and static MGs
+Added New bullet sound effects, including impacts and sonic cracks
+Added Garand now uses a set of altered PING sounds (3 variants), only audible at close range
+Added reloading sounds where applicable
+Added mission Operation Mercury
+Added statics can now be reloaded
+Added TFAR comp for backpacks
+Added IJA radio backpack (dummy)
+Added radio operator for IJA troops
+Added radio operator for USMC troops
+Added overview MP screen picture for mission Galvanic
+Added Owen gun (WIP)
+
+Changed tracers colors (red for Allies - green for Axis)
+Changed AI SMG firing behaviour - they now use more bursts instead of single shots
+Changed Shotguns now use pellets properly
+
+Improved fire geometry for Type 92
+Improved fire geo for 6pounder
+Improvement and fixes for Op. Galvanic
+
+Fixed RoF static bug and removed scripted system
+Fixed MG respawn bug on Op. Galvanic
+Fixed "voice bug" where certain nations used a mismatching chatter
+Fixed Dutch commando berets was invisible
+Fixed M4A2 turret was not moving correctly
+Fixed distant lods for Type 92
+Fixed M42 texture bug
+Fixed params for MG suppression module
+Fixed Garand PING bug where the clip eject could be heard even at great distances
+
+Removed BAR handle as default item
+
+Tweaked Carbine dispersion
+
+VI release - 01.04.2020
+Added m1 carbine reload sounds
+Added mp40 anim reloads
+Added reload action for the greasegun
+Added m1919 ui picture
+Added PAK40
+Added mission Op. Galvanic - Red Beach 1
+Added new trenches by Fyuran
+Added new Type92 model
+Added missing weapons as placeable in editor
+Added Dutch Commandos (No.2 Troop)
+Added camo selection to US M41 uniform
+Added M41 uniform color variants
+Added M41 uniform for USMC
+Added AI mortar fire support module
+Added Suppression system for static weapons module
+Added RoF system for statics (MG42, Type 99, M1919, Vickers)
+Added rails and vegetation
+Added Rommel asparagus
+Added Gold Beach map
+
+Fixed sniperspot model
+Fixed weapons have no reload sounds
+Fixed removed "open door" action for bunker 3 & 4
+Fixed greasegun open bolt
+Fixed fg42 some bullets were visible during reload
+Fixed g43 mag was moving in the opposite way during reload
+Fixed can't get in static weapons from behind
+Fixed Shotgun ammo were invisible
+Fixed type95 firing effects
+Fixed US Bandoleer clipping issue
+Fixed mortar sight view & added Direction value on the UI
+Fixed Chinese voices
+Fixed M42 texture bug
+Fixed enfield magazine for reload animation was not visible
+Fixed mortar ammo boxes can now be dragged with ACE
+Fixed lod order m1897_bayonet
+
+Reworked smg AI firing behaviour
+
+Tweaked hit value for rockets
+Tweaked fire geo for bunkers 3 & 4
+Tweaked reload time for static weapons
+Tweaked M4A2 hull gunner aim handling
+Tweaked tone of US gear
+Tweaked gunnerview for mortars
+
+Synched reload animation for mg42
+Synched reload and bolt animation for type99
+Synched reload animation for mp40
+Synched reload animation for lee enfield
+Synched reload animation for m1a1
+
+V release - Hotfix 1 - 15.04.2018
+- Fixed Kokoda crash
+- Fixed mkII Helmet with foliage
+- Fixed missing normal map on M2 helmet
+- Fixed M1 Garand visual PING bug
+- Fixed Sherman gunner position
+
+V release 08.04.2018
+
+ADDED
+- AB new helmets
+- US helmets reworked
+- ranks for AB
+- Dutch Windmill asset
+- Flags 
+- Horizon Islands Faction
+- UK mkII helmet with Foliage camo
+- Fallschirmjäger Knochensack Sumpftarn camo variant
+- Panzer Lehr Division
+- Some EU map assets (wip for now)
+- M1903a1 modeloptics
+- UK Para gear Khaki Variants
+- Polish Paratroopers
+- Polish Commandos (No.6 Troop)
+- Polish Commando and Para berets
+- UK Commando Wool hat Variant
+- maroon and tan SAS berets
+- Norwegian Commandos (No.5 Troop)
+- cromwell optic 75mm (petrtlach)
+- fow_optional_increasedGearCapacity_c
+- A6M Zero (very wip)
+- F6F Hellcat (very wip)
+- new texture for NCO M1 helmet
+- minor cfg tweaks
+- improved attenuationEffectType for vehicles
+- Kokoda: 
+- more FoW vegetation
+- Some new tunnels/caves + filled in defence areas more
+- EnvSound tweaks, shouldnt be silent anymore + river volume decreased slightly
+
+FIXED
+- hatches sounds
+- mk2 fak camo texture bug
+- Cromwell tracks don't move
+- Corrected spent cartridge eject location to bottom side for MG34 and MG42
+- Panther coaxial MG smoke is coming from the main gun hole
+- type 77 mg was very inaccurate
+- folaige attached to the turret was moving with the gun barrel
+- m5a1 collision
+- mass for TNT
+- mass value for m1928 (USMC)
+- manual bolting module
+- US Army M4A2 texture bugged in VG
+- USMC Rifleman (M1 Carbine) has an M1 Garand webbing instead of the carbine one
+- cromwell commander cupola can now rotate
+
+CHANGED
+- AB uniform improved
+- removed movements' sounds for the moment
+- Improved garand ping sound (fixed MP bug)
+- improved get out\in for statics
+
+IV release 20.11.2017
+
+ADDED
+
+Handerson Airfield map
+Bike horn for truppenfahrrad
+M4A2
+M5A1
+LVTA2
+GMC Truck
+Type 97 truck
+Type 95 Ha-Go
+Panther
+Kubelwagen
+Kubelwagen (MG)
+Sd.kfz. 222
+Sd.kfz. 234/1
+Sd.kfz. 250
+Sd.kfz. 250/9
+Sd.kfz. 251
+Universal carrier
+
+Sd.kfz. 251 wreck
+Type 95 Ha-Go wreck
+Sd.kfz. 222 wreck
+Willys wreck
+Universal Carrier wreck
+
+Dienstglas 6x30 binoculars
+German Nb39B Smoke grenade
+British no.82 "Gammon bomb"
+British no.79 Smoke grenade
+British no.77 White Phosphorous Grenade
+British no.73 Anti-tank grenade
+British no.69 Hand grenade
+TNT explosives
+M1919a4 tripod
+M1919a6 deployed
+MG 34 General-purpose machine gun
+Gewehr 43 Semi-automatic rifle
+FG42 Fallschirmjäger gewehr
+MG 42 deployed
+Radom Vis P35
+Pistole 640(b)
+Walther PPK
+Welrod Mk.II Silenced pistol
+P08 Luger
+Zf41 scope (thanks to the Unsung Team)
+M1912 shotgun
+Ithaca shotgun
+Springfield M1903 (Thanks to Toadie)
+Panzerfaust (Klein, 30, 60, 100)
+Rifle No.5 Jungle carbine 
+No.4 bayo for Rifle No.4
+M1 Garand tracers ammo
+
+US munitions containers
+UK munitions containers
+IJA munitions containers
+German Fallschirmjäger Drop canister
+
+UK SEAC units
+UK Radio operator unit
+UK LT textures for PIB, BP, and CAN 01 and 02
+UK RHA beret variants
+UK RTR beret variants
+UK Radio backpack green variant
+UK Backpack variant with shovel
+UK Jungle hat
+
+US Engineer, Radio operator, Sniper, Rifleman M1903a1, SMG guner M1a1, SMG gunner M3, rifleman m1 Carbine, shotgun riflemen
+US Army paratroopers and gear (82nd & 101st)
+M37 & M41 US groups and units
+US Army Merril's Marauders units
+US Army HBT uniform variants
+USMC camo uniform variants
+US M1 helmet NCO variant
+US M1 helmet folded variant
+US M1 closed variant
+US Haversack M-1928 variant
+A4 Wool Cap (nvg slot)
+US Daisy Mae hat variants
+AUS faction
+M4A2 US army markings by Jaki
+
+Waffen SS uniforms
+Waffen SS M43 Smock
+Wehrmacht Herringbone uniform
+Wehrmacht Panzercrew uniforms & gears
+Wehrmacht M42 helmet
+German Fallschirmjäger Helmet with net
+German backpack ammo boxes for MG34/42
+German Torn radio backpack
+German Backpack ammo boxes for MG34/42 as cosmetic options (NVG slot)
+IJA rifleman AT (frag) unit
+Parachute (placeholder)
+Carlisle fak
+Facegear items
+Glasses, Gloves and Watches
+Burned Characters
+
+Reyhard's advises for caliber & hit calibration
+AT disposable system
+CSA comp for magazines
+New main menu
+Uniform icons pics
+
+CHANGED
+
+PIAT is now a primary weapon
+Darkened US gear
+M1 Garand dark texture variant
+M1 Garand improved sight
+STG44 texture
+STG44 distance settings
+Improved RoF sys
+Disabled A3 protocols for IJA and GER units
+Improved SS Peadot textures 
+Added ADV tag in the weapon backpack (mortars)
+Improved Vickers shooting anims
+New German M24 'Splittering' model
+New German M24 Concussion Grenade model
+Allies and Axis are set enemy by default for new scenarios
+Increased capacity for all backpacks
+Reworked US units load out
+Reworked UK units load out
+Handanim M55
+M1a1 Thompson textures
+
+FIXED
+
+Willys driver anim 
+Surfacesound wood on wx_woodenRoadBridge
+Type99 reload bug
+LCVP roadway bug
+Wrong get in\out point for 6 pounder
+British para webbing cargo space
+
+III release
+
+Hotfix 07.06.2017
+- removed wip broken assets
+- fixed type 99 sniper GL bug
+- corret name for SS helmets (thanks to Toujiro-Kun)
+
+Betio Tarawa Changelog:
+- New Mask image 
+- Reworked Satmap
+- Added underwater heightmap
+- Fixed dust from surfaces
+- Fixed surface sounds
+- Fixed misplaced objects
+- Fixed clutter
+- Reworked sand surface
+- Added new surfaces
+- Added new nopx textures
+- Added new vegetation
+- Added Tarawa intro mission
+- Defined runway correctly
+- New lightning config
+Sounds changelog:
+- New bullet impact, sonic crack and flyby sounds
+- Tweaked mechanism (1st person) sounds
+- New or reworked sounds for M1919, Thompson, MG42 and Stg-44
+- Range of gunfire sounds extended (to around 5 kilometers)
+- Revised interior and distant firing sounds
+-----------------
+- Added visor hat officer (Heer)
+- Added visor hat officer (SS)
+- Added new version helmet (Heer)
+- Added M40 Helmet Heer (Net)
+- Added _net and _net_camo for U.K. helmets
+- Added New Para beret
+- Added Tornister rucksack (Medic version)
+- Added Pea dot uniforms
+- Added Feldmütze SS to SS units
+- Added 1st Belgian Infantry Brigade "Brigade Piron"
+- Added Dutch brigade "Prinses Irene Brigade"
+- Added 3rd Canadian Division - Royal Winnipeg Rifles
+- Added 3rd Canadian Division - British Columbia Regiment
+- Changed us_soldier02 completely, with textures and rvmat
+- Added Fallschirmjäger units
+- Added IJA (foliage) squads and units
+- Added Commando units & groups config
+- Added IJA crewman
+- Added crewman class for US/USMC
+- Added US and IJA pilots
+- Added 6 pounder (57mm gun)
+- Added flak36
+- Added M55 Reising submachinegun
+- Added Vickers MG
+- Added PIAT
+- Added Bazooka
+- Added Webley revolver
+- Added Type 10 flare gun
+- Added Type 99 AT grenade
+- Added Type 99 Sniper version
+- Added M1911 pistol (A2 port)
+- Added Type 14 Nambu pistol
+- Added Type 99 animations
+- Added Enfield animations
+- Added K98 animations
+- Added Garand animations
+- Added 50 & 100 round belts to the M1919
+- Added new weapon inertia and aiming speed values
+- Added Rifle grenade launchers: M7 for Garand and Type 2 for Arisaka Type 99
+- Added truppenfahrrad (bicyle)
+- Added whistle system (work in progress)
+- Added Rate of Fire system (for AI) to all MGs
+- Added cfg class for trees
+- Added interior sounds and path LoD to Tarawa objects
+- Added path lods for trenches
+- Added M24 frags to German units
+- Added weapon effects: heat distortion effect at muzzle / spent casings on the ground
+- Added specific bolt cycling anim/time for each bolt-action rifle
+- Added "FoW Main Theme" - composed by Jeast
+- Added German and Japanese names
+- Added U.K. combat shouts and IJA combat\aware chatter
+--------------------------------------
+- Changed mass of grenades
+- Reviewed ammo storage for British and German
+- Fixed the issue with some weapons sinking into the ground
+- Fixed wrong diplay names for mortar bags
+- Added optics for mortars (work in progress)
+- Muted radio protocol of German and Japanese units
+- Fixed: patches were out of the camo selection for the U.K. lieutenant
+- Improved BAR: sight adjustment, bipod and carry handle removable, back stock texture
+- Fixed wood surfaces of pier roadway
+- Fixed spamming of ejected Garand clips
+- Improved bolt action MP compatibility
+- Fixed LCVP turrets (could rotate 360)
+- Fixed: reset fire modes after each shot (Mortar sys)
+- Fixed: headgear can't be stored in uniforms and vests
+- Fixed: LCVP could load 60 soldiers
+- Raised volume of US chatter
+- Fixed name for IJA squads
+- Willys Jeep optimization
+- Improved "lodu_cask_heer01" (textures and the 3d)
+- Changed trench assets moved to a proper category
+- Fixed commando texture bug
+- Improved U.S. equipement (3d, textures, rvmat)
+- Fixed Bergenpack weighting 
+- Fixed: "black spot" (on the back of U.K. para)
+
+
+II release - 27.03.2017
+
+IMPROVED
+- Vegetation has been upgraded
+- Bolt action script has been ported to the new EH
+- German uniforms
+- mk2 net texture
+- Feldmutze texture
+
+ADDED
+- New vegetation models
+- M2 mortar
+- Type 97 mortar
+- Mortar system
+- New logo
+- Death screams
+- Ambient voices system (still wip)
+- STG44 (Sherminator & UNSUNG TEAM)
+- Sten mk 5
+- M1919A4
+- M1919A6 (McHellsten, Dackhammar & UNSUNG TEAM)
+- B.A.R. (UNSUNG TEAM)
+- Zeus comp for units and vehicles
+- UK paras
+- UK Commando
+- UK vest retextures
+- cfgGroups entry for uk
+- cfgGroups entry for us
+- cfgGroups entry for usmc
+- UK berets
+- Path lods to a lot of objects
+- New enfield variation 
+
+FIXED
+- type92 ROF

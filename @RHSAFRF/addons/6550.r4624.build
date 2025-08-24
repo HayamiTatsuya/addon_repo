@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BuildFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ProjectName>afrf</ProjectName>
+  <Version>0.5.6</Version>
+  <Files>
+    <File>
+      <FileName>rhs_2s1</FileName>
+      <MD5>9aefe97007995c7f92b347d1c04b140c</MD5>
+      <SHA1>1fc49927697d47f7891a5d2a1a046e459184760f</SHA1>
+      <DateModified>05/01/2021 14:39:53</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_2s3</FileName>
+      <MD5>7c489bcc437fe99a39bce4cb0ba74ffd</MD5>
+      <SHA1>55d7104154b0e5ccc23c9c0c9cd5b11ee4f7ba18</SHA1>
+      <DateModified>04/27/2021 17:16:39</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_2s3_camo</FileName>
+      <MD5>846bf0b983f172bed1883fdffea30097</MD5>
+      <SHA1>ff1cd02119ae8a505013701d80f9c50494beba3d</SHA1>
+      <DateModified>01/19/2020 13:43:05</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_a2port_air</FileName>
+      <MD5>ca7247d4cf66cca4fadd8e4b3ab5ad31</MD5>
+      <SHA1>5efcce6f3973a55d579274eeca36d8418a0e6950</SHA1>
+      <DateModified>05/08/2021 08:41:29</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_a2port_armor</FileName>
+      <MD5>b9e44bfa66c38f1149f91e3effde337a</MD5>
+      <SHA1>cadfb8a98969ef7433f5b8600841204ebe097037</SHA1>
+      <DateModified>03/21/2021 15:06:26</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_a2port_armor_camo</FileName>
+      <MD5>081dd60d9284e292eeb9fa59106ac00f</MD5>
+      <SHA1>80b3edeb79748164ff56cac70f7d608af7f42ed1</SHA1>
+      <DateModified>01/19/2020 12:25:37</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_a2port_car</FileName>
+      <MD5>d4b9e0909c8023c0bd5cba8e2013207b</MD5>
+      <SHA1>0ceca5883304a570ffd966a7267ca99649d27542</SHA1>
+      <DateModified>05/09/2021 11:44:19</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_a2port_car_camo</FileName>
+      <MD5>53029cb78d77e455fb8e6103257532a3</MD5>
+      <SHA1>b8091a6572e08ee59427ef95bf73ed7ab8a2d334</SHA1>
+      <DateModified>01/19/2020 14:29:24</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_a3retex</FileName>
+      <MD5>4d4cb77119245f8b33d00ba3e4b15640</MD5>
+      <SHA1>af9d4a474bf3d62d1b494a83226685c00f24ad79</SHA1>
+      <DateModified>01/19/2020 13:08:57</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_accessory</FileName>
+      <MD5>70af20487b21aa65b7f85430af39d45d</MD5>
+      <SHA1>fbbc2ed1f52e12821d63118e283bdab3b7b762c7</SHA1>
+      <DateModified>08/23/2020 19:22:46</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_air</FileName>
+      <MD5>6a91871f4b068ee143b3e08f159bef9a</MD5>
+      <SHA1>64b2212c9e14a1a4dbe8739b50892dbf3f65f78e</SHA1>
+      <DateModified>05/10/2020 07:29:10</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_airweapons</FileName>
+      <MD5>0bce76acce8da49049bdab940ef21a2f</MD5>
+      <SHA1>40315542c7205c648c5c8ff3d09078206c78177c</SHA1>
+      <DateModified>01/19/2020 12:29:07</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_aps</FileName>
+      <MD5>0636127cb19a9ed6279aa1226a42321d</MD5>
+      <SHA1>172b403f391a463eb0c14e7aec73231a8528918c</SHA1>
+      <DateModified>05/13/2020 17:14:59</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_bmd</FileName>
+      <MD5>9081019495febff296816bbb8306f5f8</MD5>
+      <SHA1>2f26450fe60e49f803a1800d925d67147de5666b</SHA1>
+      <DateModified>04/17/2021 07:48:42</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_bmd_34</FileName>
+      <MD5>f50e6cf1c432db9484ed466d2c4eeb4f</MD5>
+      <SHA1>b30c4c0c55a3f91d9dcef47f94f2784d3d929e8c</SHA1>
+      <DateModified>05/10/2020 10:01:55</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_bmd_camo</FileName>
+      <MD5>962bc9a3e533fb317a33b8e4757100f1</MD5>
+      <SHA1>ce9e57d0c93cd3c49974206929d7bc0de7783d24</SHA1>
+      <DateModified>01/19/2020 13:42:13</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_bmk_t</FileName>
+      <MD5>abc3830e04af5cf64167aff617d0941c</MD5>
+      <SHA1>65734f663498cc8d768f7572a054ff259371dcd7</SHA1>
+      <DateModified>11/08/2020 09:38:48</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_bmp</FileName>
+      <MD5>5e0c4c1d581bd65ef1b68890a3e80514</MD5>
+      <SHA1>67e544de42cd423d740f5ab859c1f369d1009be7</SHA1>
+      <DateModified>04/24/2021 17:42:34</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_bmp3</FileName>
+      <MD5>90df83256dc2cafb1be30d244e7bc28d</MD5>
+      <SHA1>ddefefc556f888ee2d1ca9fcf7a94a2cee52dd14</SHA1>
+      <DateModified>05/14/2020 17:24:13</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_bmp3_camo</FileName>
+      <MD5>d578e98617ff746e5c346ca73a19f248</MD5>
+      <SHA1>b739b096c49a29f49c6182239381286488bccaf0</SHA1>
+      <DateModified>01/19/2020 12:17:23</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_bmp_camo</FileName>
+      <MD5>fcb2dcbe735c9ef101093d927bb5ad45</MD5>
+      <SHA1>3e0a0a4851cc8f7188c3fdd43956bff2812a9884</SHA1>
+      <DateModified>01/19/2020 13:52:33</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_btr70</FileName>
+      <MD5>092916ec67a5a15e7a503edbbb854c62</MD5>
+      <SHA1>822b3ae72df05cf504726b3ecb69a83ad6f5c264</SHA1>
+      <DateModified>03/21/2021 15:07:06</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_btr70_camo</FileName>
+      <MD5>af5b35b708ffc8ad47f6f1b8ec400d57</MD5>
+      <SHA1>93d8fc7b92ac92d1ca2a6e24922640d3867f4b2a</SHA1>
+      <DateModified>01/19/2020 12:15:38</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_btr80</FileName>
+      <MD5>5abed9fc75a16e0f54676293b3207658</MD5>
+      <SHA1>836c3531e3cea68785638036c5269d509fe37fbe</SHA1>
+      <DateModified>05/10/2021 12:57:33</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_btr80_camo</FileName>
+      <MD5>6b493053d70f2e29af59e417db91491b</MD5>
+      <SHA1>405ab2a36d02d50d225068122107780671227d0c</SHA1>
+      <DateModified>10/06/2020 01:30:31</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_c_2s1</FileName>
+      <MD5>190a1119f00eb80a6cb4365aea91257d</MD5>
+      <SHA1>a5f1eaf3205bbfc87823e8ad0f7e03d755a5079d</SHA1>
+      <DateModified>05/09/2021 09:50:16</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_c_2s3</FileName>
+      <MD5>8ec1995637bcbc66d79ebbc889a22dbe</MD5>
+      <SHA1>874f26884aa9920b0852f062443f91d76264d0d5</SHA1>
+      <DateModified>05/09/2021 09:50:12</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_c_a2port_air</FileName>
+      <MD5>e5824b26247aa53e07db0d897a2e988a</MD5>
+      <SHA1>6502f886d8e32ab8f4125706fa1e13d73e80ef17</SHA1>
+      <DateModified>05/09/2021 09:49:18</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_c_a2port_armor</FileName>
+      <MD5>5b8cd5a9510de34e69fd30d1ccfb8ad0</MD5>
+      <SHA1>56c8da35578aeb132cd3f3be0e68b104593a7219</SHA1>
+      <DateModified>05/09/2021 09:50:14</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_c_a2port_car</FileName>
+      <MD5>6dce58958e33edfdeddba66db313b238</MD5>
+      <SHA1>fac3ce44ecf54a9621d03488ad2a503d8495b019</SHA1>
+      <DateModified>05/09/2021 11:41:51</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_c_a3retex</FileName>
+      <MD5>1d5590c70fee998b785c5f53f877cc4d</MD5>
+      <SHA1>b301ebf1fa8126f63135220051454420f6dabe36</SHA1>
+      <DateModified>01/19/2020 12:37:45</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_c_air</FileName>
+      <MD5>8ab5399d0db356033d132030a069e213</MD5>
+      <SHA1>f94edb0568442d85ed8bd1c07be81065b27d2d6c</SHA1>
+      <DateModified>05/09/2021 09:50:32</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_c_airweapons</FileName>
+      <MD5>0fbd9dd7e01495e85adf5de6c37c5847</MD5>
+      <SHA1>fda43ee5ecb76b01d1bd212101767f4c30631859</SHA1>
+      <DateModified>05/06/2021 16:35:11</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_c_bmd</FileName>
+      <MD5>945d2f3f21507821a5300c92aaaaa032</MD5>
+      <SHA1>c33ebf1f610987e9e71ff328bf08dafa477c98be</SHA1>
+      <DateModified>05/09/2021 09:49:55</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_c_bmd_camo</FileName>
+      <MD5>1e82bf1697af99872313f3455ffc76f7</MD5>
+      <SHA1>af64c2b107564d59bc34998db9292ab5733cf688</SHA1>
+      <DateModified>01/19/2020 14:08:02</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_c_bmk_t</FileName>
+      <MD5>b68671f0ce452ca8905ea0cb99b4c982</MD5>
+      <SHA1>6d43c1fb17060353bd4f1425101698b490db927e</SHA1>
+      <DateModified>05/09/2021 09:04:20</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_c_bmp</FileName>
+      <MD5>1e2b5c852a0075b42fd4a4285daf02be</MD5>
+      <SHA1>8717d23e12141416740d8dc124f111d656d3ac90</SHA1>
+      <DateModified>05/09/2021 09:49:44</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_c_bmp3</FileName>
+      <MD5>da36c8f8cfad7c2211ab3863a9726e45</MD5>
+      <SHA1>0831e4333f5cc704566fbeb8e258b9c180bc345e</SHA1>
+      <DateModified>05/09/2021 09:49:37</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_c_btr</FileName>
+      <MD5>13c02b5484ac56a171782193dc5ec9ac</MD5>
+      <SHA1>1bc503e4f606e02addc08211d3cec682a6a58d3c</SHA1>
+      <DateModified>05/09/2021 09:50:02</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_c_btr70_camo</FileName>
+      <MD5>121ebeb96722a5a49eab13c2e25a9982</MD5>
+      <SHA1>c20d7f14aa4bbd73e9a647fcfaa84744a5d06436</SHA1>
+      <DateModified>01/19/2020 12:52:21</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_c_cars</FileName>
+      <MD5>f8156c70b2e8a70b2f7b168ac6f1a94c</MD5>
+      <SHA1>37ffd4d9c1baace3b683bb14a2968d9348e6917f</SHA1>
+      <DateModified>05/09/2021 09:49:59</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_c_cti_indep</FileName>
+      <MD5>1c4a0b06f1de5499cb0ff7ed5ffadc20</MD5>
+      <SHA1>05d31ac926bb3f6382ba42d6403df7ab6b1f3d20</SHA1>
+      <DateModified>05/09/2020 11:03:45</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_c_heavyweapons</FileName>
+      <MD5>cbb1fe5fb889c9cfcbf05f49e7a873d5</MD5>
+      <SHA1>f09c9307cd8108db380d82d593e3d12d335c9757</SHA1>
+      <DateModified>05/10/2021 17:23:43</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_c_identity</FileName>
+      <MD5>b965a44fd0089acb0d2c85bbf51070be</MD5>
+      <SHA1>bedf4376ff794690f0a8564a4fc32ae88b050e89</SHA1>
+      <DateModified>10/30/2020 19:02:30</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_c_kamaz</FileName>
+      <MD5>5e5ff79be17576efbf194aa0d5439cd9</MD5>
+      <SHA1>1ab7cc5f143659dbf462e58d70a67e2bc425d81f</SHA1>
+      <DateModified>05/09/2021 09:49:52</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_c_kraz255</FileName>
+      <MD5>775c974562fea1d192b054ebbd2bf48e</MD5>
+      <SHA1>ac2e2554a0d3721237c70b1d69cd90ca5b2be469</SHA1>
+      <DateModified>05/09/2021 11:41:48</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_c_mi28</FileName>
+      <MD5>83a416e261b025fb2a7d0eb3070f2922</MD5>
+      <SHA1>13fe1c925fe37dc13f820e2c7cf71e7edb9cb765</SHA1>
+      <DateModified>05/09/2021 09:50:22</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_c_mig29</FileName>
+      <MD5>f75c4cef00ba000b29bba25d7668129e</MD5>
+      <SHA1>9c14795ac353010ec0117393afdb767bca817bd4</SHA1>
+      <DateModified>05/09/2021 09:49:29</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_c_pontoon</FileName>
+      <MD5>7c4d1f1a292c7e69053f2ff1d8eadb9b</MD5>
+      <SHA1>3673a8f257ce92ced467793f5cc838455d70866e</SHA1>
+      <DateModified>05/09/2021 09:04:24</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_c_pts</FileName>
+      <MD5>d6c1f7c55c5478f05a3e357d53d64744</MD5>
+      <SHA1>a0daa193ae3a3ab52f902d213846f4a6c832d4d5</SHA1>
+      <DateModified>05/09/2021 09:49:49</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_c_radars</FileName>
+      <MD5>21cd1575aeb6fb7bf9992554c40029e3</MD5>
+      <SHA1>2a2dc8174a3d6ae9c05237b117aaeaf2cc7bd477</SHA1>
+      <DateModified>06/07/2020 12:42:12</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_c_radio</FileName>
+      <MD5>9b01232762988cba84ababd3de7c35ba</MD5>
+      <SHA1>df8dbf09bd9182b0c6f3cab0f29c174e9fd9017b</SHA1>
+      <DateModified>04/17/2021 08:36:56</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_c_rva</FileName>
+      <MD5>6fc7ade168b2abf0005db8b7bc00d8fb</MD5>
+      <SHA1>9d926da43cf89fc14b96dce863eed95e77312bcc</SHA1>
+      <DateModified>05/09/2021 09:49:26</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_c_sprut</FileName>
+      <MD5>f6c5458ef8b038aed720cc5c2f8ba0e5</MD5>
+      <SHA1>a5c942d152cd154fbacc4e61c42a2f0037297722</SHA1>
+      <DateModified>05/09/2021 09:49:46</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_c_t14</FileName>
+      <MD5>55b43ccd085ae3134ee8d760bcb9fc6e</MD5>
+      <SHA1>3d39254e62c431dae7a6debaea5908be700c1c3c</SHA1>
+      <DateModified>05/09/2021 09:49:34</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_c_t15</FileName>
+      <MD5>035a2e887399682b1ef2d6561d32dd62</MD5>
+      <SHA1>48219cf03ec5f110cbf27aa017a347e23460eb95</SHA1>
+      <DateModified>05/09/2021 09:49:32</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_c_t72</FileName>
+      <MD5>82e66a090c4500a930d61a32db324b23</MD5>
+      <SHA1>83da8328c363483589deba17cfeb2d22dedd0449</SHA1>
+      <DateModified>05/09/2021 09:50:09</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_c_tanks</FileName>
+      <MD5>69d25c1e4eaa3cb350b9d3ccef339fbe</MD5>
+      <SHA1>71aedd320dd5a9530438208023efbb4e41534828</SHA1>
+      <DateModified>05/09/2021 09:49:41</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_c_troops</FileName>
+      <MD5>9ad931d57320e240bc380c796675e573</MD5>
+      <SHA1>b24f7335e20c97c7b324c0160dc122a9daef405f</SHA1>
+      <DateModified>05/10/2021 19:13:08</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_c_trucks</FileName>
+      <MD5>dc56e9dfd619be157f9dc8ba52ad7384</MD5>
+      <SHA1>8d8ab1a0e970cf0b440fa7c6432c8207c7596235</SHA1>
+      <DateModified>05/09/2021 09:50:24</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_c_vehiclesounds</FileName>
+      <MD5>79d47f049931607d525720c4c5b41a5d</MD5>
+      <SHA1>995da75c16f629820b7f158a9de612688525ed8d</SHA1>
+      <DateModified>04/17/2021 07:46:28</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_c_weapons</FileName>
+      <MD5>ff707b45044c64cd07bdd1046af25fcb</MD5>
+      <SHA1>9baea5ff15647062d799aad67330c3a015bbd3ee</SHA1>
+      <DateModified>05/09/2021 09:04:59</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_c_weaponsounds</FileName>
+      <MD5>ff72a314737bb39913e7c1b0ddc38b8a</MD5>
+      <SHA1>ffcd8bf28ba13f5231035b9378a5f3075d7ea616</SHA1>
+      <DateModified>03/15/2021 19:27:52</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_c_zil131</FileName>
+      <MD5>b873f0bf127ec150db453ace3fc9adad</MD5>
+      <SHA1>baebe0e0aac3ca6297103072f93c9155093c3192</SHA1>
+      <DateModified>05/09/2021 09:50:05</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_decals</FileName>
+      <MD5>e5bdc1d10a2e0f749e8848a0aeeb1307</MD5>
+      <SHA1>1e9a462de988c5f565a50ce713a8e3d999d64852</SHA1>
+      <DateModified>01/19/2020 14:01:33</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_editorpreviews</FileName>
+      <MD5>56deeafd02343a482673ecdd709bbb9d</MD5>
+      <SHA1>dad3e6e00d3130eb102da12249fa33db95e144a1</SHA1>
+      <DateModified>05/09/2021 09:05:56</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_gaz66</FileName>
+      <MD5>607f10ec024c68efe4eb1b614db7ffec</MD5>
+      <SHA1>3862adb2a8764245ee4847069281985bea035578</SHA1>
+      <DateModified>05/05/2021 15:54:56</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_gaz66_camo</FileName>
+      <MD5>ff435d2bd5b37c08d3d14d27f8b5f206</MD5>
+      <SHA1>8064228851c3d28fb56c28cdb1a8b1c7ad38dc60</SHA1>
+      <DateModified>01/19/2020 12:48:19</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_heavyweapons</FileName>
+      <MD5>942e279d6867e6989c9a8043ca9fed58</MD5>
+      <SHA1>d5d710a5586c044581e74c16740334dd1fb139ad</SHA1>
+      <DateModified>05/05/2021 15:57:25</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_identity</FileName>
+      <MD5>c968e40006135d076fc88595d7066867</MD5>
+      <SHA1>59686ff87ec1c3abce58e93c667ba2e49993ca1a</SHA1>
+      <DateModified>01/19/2020 13:27:59</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_infantry</FileName>
+      <MD5>364c20d5a6bb64fc11ae517f98d0adee</MD5>
+      <SHA1>73cc074a866201fdf25029267ca84cbaab6c261e</SHA1>
+      <DateModified>04/26/2021 04:18:14</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_infantry2</FileName>
+      <MD5>4a548f1fe91907828897c976fff31c19</MD5>
+      <SHA1>30f38980af06021bb09dbe8389319adfe632febe</SHA1>
+      <DateModified>05/01/2021 21:36:46</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_infantry3</FileName>
+      <MD5>dba8441084ccea9ad505c0d9d39de07c</MD5>
+      <SHA1>979579c2f58e82854267aecec3b43df7ac9bf4bc</SHA1>
+      <DateModified>05/09/2021 00:29:41</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_inventoryicons</FileName>
+      <MD5>0184f599cba4ddbfa97863994adcdfae</MD5>
+      <SHA1>f30600902048510074096583e179c20e57c8e326</SHA1>
+      <DateModified>05/10/2021 17:50:22</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_kamaz</FileName>
+      <MD5>4bb9d9b8382087421756d1eeaf481c99</MD5>
+      <SHA1>292211ceffd45a7b451feab709e0e0822ebe819e</SHA1>
+      <DateModified>05/08/2021 14:06:10</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_kraz255</FileName>
+      <MD5>2ca5e4629219f3a5be613c72a5164b08</MD5>
+      <SHA1>4da16c048f9c820ea2be1baac221582923d590a7</SHA1>
+      <DateModified>11/18/2020 18:20:04</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_main</FileName>
+      <MD5>c31139a17ac99896109c228f797bfff5</MD5>
+      <SHA1>660a0c5e66770d8f2106fbe6d3ebe7f09e66e579</SHA1>
+      <DateModified>05/09/2021 09:17:41</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_mi28</FileName>
+      <MD5>3a8496b0e802c0559b8df82af7d41eb2</MD5>
+      <SHA1>0041af14bcd0d122252c8443f510a28e3a1f8ffe</SHA1>
+      <DateModified>08/06/2020 19:42:38</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_mig29</FileName>
+      <MD5>ec57c08f80af77bb99f1f238f0956865</MD5>
+      <SHA1>ca32f24fc1fad28163754c27d094f495488a987a</SHA1>
+      <DateModified>05/10/2020 07:34:19</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_missions</FileName>
+      <MD5>87065eb7ce31f2fc4b224d3a0bc253ef</MD5>
+      <SHA1>7348d23b1c4190096acb466c036ea04bb0a86eca</SHA1>
+      <DateModified>11/20/2020 17:17:51</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_mtlb</FileName>
+      <MD5>e52f1e200636a04c03c383a8fb5ab015</MD5>
+      <SHA1>1f607214aaadc435ec27202aa9f0e80b0fffa73c</SHA1>
+      <DateModified>01/19/2020 12:52:21</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_muzzleflash</FileName>
+      <MD5>3e893e993cdff48db1c73968c70dea82</MD5>
+      <SHA1>83f6b817e0fe34f24b2aaa1b115ef1b877a108e4</SHA1>
+      <DateModified>10/10/2020 12:10:54</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_optics</FileName>
+      <MD5>8cd315c3fb0660e7c8ba389214fcc1c2</MD5>
+      <SHA1>2064f0a29a783ca275b837a2aabb578bbf0670e0</SHA1>
+      <DateModified>04/27/2021 17:17:31</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_pontoon</FileName>
+      <MD5>d47d72a74098cb91d1c085828782294e</MD5>
+      <SHA1>1f52f37cf51b6bca69f88f4298bb2647842b29a2</SHA1>
+      <DateModified>11/08/2020 18:40:30</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_props</FileName>
+      <MD5>530831485096aa3ad9db5f1e931f3644</MD5>
+      <SHA1>662fc5f1e80a198b96362aa56cc62e6088ceee11</SHA1>
+      <DateModified>01/19/2020 12:21:22</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_pts</FileName>
+      <MD5>5698a0cc5ec0a6c083449a49cb14bfda</MD5>
+      <SHA1>38151f32d2636e458cbda1b522e697b6a274c16b</SHA1>
+      <DateModified>05/14/2020 20:04:35</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_radars</FileName>
+      <MD5>deb1bb21ff5001cd4b23c217f161e1c4</MD5>
+      <SHA1>68e75803f88f8b77f2ff2416b3cece21c7d5795f</SHA1>
+      <DateModified>05/09/2020 11:09:17</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_servicemenu</FileName>
+      <MD5>c45a61c9780bfc46ce760241d6e07e22</MD5>
+      <SHA1>67f5409bb1d541a58f86f22f98a049eb088eba08</SHA1>
+      <DateModified>01/19/2020 12:40:56</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_sounds</FileName>
+      <MD5>fb0e7aba5f0b83d53e8ef7b705962af1</MD5>
+      <SHA1>6853c4eb382bb34d42b83768040ee2689c0a3546</SHA1>
+      <DateModified>04/27/2021 17:16:03</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_sprut</FileName>
+      <MD5>46e78744be1f7872dc55eb2b3f45ec6e</MD5>
+      <SHA1>50a39a23ef502270bc7a8569e950cefbad360efb</SHA1>
+      <DateModified>01/19/2020 13:17:32</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_ss21</FileName>
+      <MD5>de54a0f0f2de8e923a3982e273dbc2ef</MD5>
+      <SHA1>bf3cb9a46ce6da5078e2ae44c647f47abd1b8753</SHA1>
+      <DateModified>01/19/2020 14:27:53</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_ss21_camo</FileName>
+      <MD5>4249efe773a0821fc594f5e520549aeb</MD5>
+      <SHA1>87672187a1d6b8f481defb39c6d6919a5ee967a7</SHA1>
+      <DateModified>01/19/2020 14:00:44</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_s_radio</FileName>
+      <MD5>687a1a254fe54ce71d0395c68326f190</MD5>
+      <SHA1>7a0aa9ebd850627439f04b5fa481962f6889d357</SHA1>
+      <DateModified>01/19/2020 13:55:33</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_s_weaponsounds</FileName>
+      <MD5>c0591316e8004da0ba7dc231f8d81199</MD5>
+      <SHA1>ae3b4c46683d737042698f725dbc87291f83f2d2</SHA1>
+      <DateModified>01/19/2020 13:44:46</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_t14</FileName>
+      <MD5>ed38901c9e3352a9d28257be438cdf07</MD5>
+      <SHA1>5b6d97aeb13de4f6d316ddcb6ea8ff9afe1a8543</SHA1>
+      <DateModified>01/19/2020 13:46:30</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_t15</FileName>
+      <MD5>5fd3a231ed10a1c360e2731d024f60f2</MD5>
+      <SHA1>45d9c5fa5129cc4a3bda201139a97051d01444ad</SHA1>
+      <DateModified>04/19/2021 17:55:17</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_t72</FileName>
+      <MD5>e17067fa5851285e5e43c4a6535bb30c</MD5>
+      <SHA1>ffe888ea91c7f0a3793131d2262c031d845d574b</SHA1>
+      <DateModified>02/07/2021 15:29:13</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_t72_camo</FileName>
+      <MD5>2a81cac431ef4527e40759cf24fcb740</MD5>
+      <SHA1>3ca15a77c8010f16042dc6e66007a09e61285628</SHA1>
+      <DateModified>01/19/2020 14:16:34</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_t80</FileName>
+      <MD5>760745b4b0102d32b90d37e724739fc5</MD5>
+      <SHA1>185591609ab5cbf1183ace349e26aa36ed1ddef3</SHA1>
+      <DateModified>12/29/2020 19:28:21</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_t80u</FileName>
+      <MD5>47db009185363b8d7034682055f1ba55</MD5>
+      <SHA1>f0aabfbdda2419f6290aef4d73fce3b4d5e691c9</SHA1>
+      <DateModified>12/29/2020 19:29:47</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_t80u_camo</FileName>
+      <MD5>9ebf662a11d2dd538a20c098f49ee1b0</MD5>
+      <SHA1>c83541e359d048429e1867d6971967222e7bf905</SHA1>
+      <DateModified>01/19/2020 13:34:18</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_tigr</FileName>
+      <MD5>0c968db6d09f628f383e38419c147633</MD5>
+      <SHA1>dad0fe1cabb49aee9c0514995b4b236e09980293</SHA1>
+      <DateModified>05/02/2021 19:05:38</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_vehiclesounds</FileName>
+      <MD5>d66782ec603bb71ef90b6dd09a744bb0</MD5>
+      <SHA1>af5319a85ea04d79b946dadd2b87e3c47bdcf806</SHA1>
+      <DateModified>03/27/2021 22:31:19</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_vehicle_sounds</FileName>
+      <MD5>dae87630a6d7ad0fcdb350db03d485fd</MD5>
+      <SHA1>fa8691643250a8a850dfc4f34e2d340125723021</SHA1>
+      <DateModified>05/08/2021 08:56:34</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_weapons</FileName>
+      <MD5>dd5622303ba922ec2a49c439b50071d9</MD5>
+      <SHA1>3210a965851b7204c579a1297b3b1461fb1e6ad9</SHA1>
+      <DateModified>03/20/2021 17:27:57</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_weapons2</FileName>
+      <MD5>61af79a96c2bcdd323ac8bbeb286a2ba</MD5>
+      <SHA1>810ffa9e0176eb8144c7e30993c5708febea769a</SHA1>
+      <DateModified>11/12/2020 20:57:58</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_weapons3</FileName>
+      <MD5>300721f7ef1b2d293edf3b201a6f7a1f</MD5>
+      <SHA1>dd40370f5716865ea205114bb58cab82d4baa695</SHA1>
+      <DateModified>05/01/2021 17:08:08</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_weapon_sounds</FileName>
+      <MD5>d109507c7784c2c436907b7861012371</MD5>
+      <SHA1>e9fd9272525c91282e434c3aacaa73e1a0fa28a7</SHA1>
+      <DateModified>05/13/2020 17:15:45</DateModified>
+    </File>
+    <File>
+      <FileName>rhs_zil131</FileName>
+      <MD5>e87ca4fb6117068f7f2a186599529d98</MD5>
+      <SHA1>295da5a9296cf0b2ceda57e47f632003b9f0bd2a</SHA1>
+      <DateModified>04/18/2021 16:33:31</DateModified>
+    </File>
+  </Files>
+</BuildFile>

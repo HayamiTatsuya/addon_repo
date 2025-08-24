@@ -1,0 +1,13 @@
+﻿Version 1.16.0 (14|Sep|2020)
+
+
+FIXED:
+* cup_terrains_maps_sara_dbe1_c, - Corrected Grid config on United Sahrani.
+* maps_takistan - Road fixes on Takistan.
+* cup_terrains_maps_bohemia - Adjusted road position on Bystrika.
+* maps_shapur_baf - Extracted lamp post from building on Shapur. 
+* cup_terrains_maps_bohemia - Grounded flying hay bales on Bystrika.
+* maps_takistan, maps_zargabad - Replaced stonewalls with desert versions on Takistan and Zargabad. 
+ 
+IMPROVED:
+* cup_terrains_maps_afghan_c,maps_bohemia_c,maps_bootcamp_acr_c,maps_chernarus_c,maps_chernarus_summer_c,maps_chernarus_winter_c,maps_provinggrounds_pmc_c,maps_shapur_baf_c,maps_takistan_c,maps_utes_c,maps_zargabad_c - Added ACE_canDig property to several surfacetypes, should ensure you cannot dig on concrete and rock surfaces.

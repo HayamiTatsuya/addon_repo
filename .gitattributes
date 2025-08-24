@@ -1,0 +1,8 @@
+*.pbo filter=lfs diff=lfs merge=lfs -text
+*.paa filter=lfs diff=lfs merge=lfs -text
+*.hpp filter=lfs diff=lfs merge=lfs -text
+*.p3d filter=lfs diff=lfs merge=lfs -text
+*.md filter=lfs diff=lfs merge=lfs -text
+*.cpp filter=lfs diff=lfs merge=lfs -text
+*.bikey filter=lfs diff=lfs merge=lfs -text
+*.bisign filter=lfs diff=lfs merge=lfs -text

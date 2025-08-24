@@ -1,0 +1,26 @@
+INSTALLATION NOTES
+==================
+
+Requirements: You need to have Arma 3 and one addon: CUP Terrains Core. Make sure you're using the latest official stable patch.
+
+Client (Player)
+===============
+1. Unpack folder @lingor_a3 to your ArmA3 root folder. Be sure to have \addons\ folder structure present after the unpack procedure with all *.pbo's inside that folder.
+
+Then you have two options:
+a) run game and under Expansions menu enable folder @lingor_a3 (Lingor Island 3.x) and CUP Terrains Core (download separately, it features A2 assets/files needed for island), click OK and restart game.
+b) or just run game with parameter: -mod=@lingor_a3;@cup_terrains_core -nosplash
+
+Island will then appear in the map list and will be ready to use.
+
+Dedicated server
+================
+Admins can grab server keys if they are running a signed server. See folder \keys in the archive.
+
+Very IMPORTANT notes:
+=========================
+-> CUP Terrains Core is required. CUP Terrains Maps is no longer required.
+-> ibr_plants.pbo is already included in the CUP Terrains Core and is not needed as in old versions.
+-> Be sure to delete any previous versions prior to the installation! If the island is not working properly, check other mod folders for duplicate pbos and bisign files.
+
+IMPORTANT: See readme_lingor.txt for license to use and other/full info!

@@ -1,0 +1,3 @@
+NOTE:
+These keys are only needed for admins of signed dedicated servers.
+If you host in-game or join games you just need to install \addons folder.

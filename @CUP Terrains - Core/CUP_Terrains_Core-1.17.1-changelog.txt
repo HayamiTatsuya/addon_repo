@@ -1,0 +1,138 @@
+﻿Version 1.17.1 (29|Dec|2021)
+ 
+FIXED:
+* cup_terrains_ca_buildings - Fixed duplicate lod 3 creating texture display issues.
+* cup_terrains_ca_roads - Added .cfg files for rtm
+* cup_terrains_ca_roads,ca_roads_rtm2 - Changed skeleton class name for RTM files.
+* cup_terrains_ca_roads_rtm2 - Added cfg files for rtms
+* cup_terrains_ca_structures_e - Fixed corrupt mipmaps.
+* cup_terrains_ca_structures_e - Fixed holes in view geometry of House_C_3_EP1.p3d
+ 
+IMPROVED:
+* cup_terrains_ca_structures_e - Cleaned up view geometry of House_C_2_EP1.p3d and House_C_10_EP1.p3d
+* cup_terrains_worlds - Updated DustEffects configs to new A3 standards
+ 
+OTHER:
+* GENERAL: Renamed all $PBOPREFIX$ to $PBOPREFIX$.txt
+* cup_terrains_ca_structures_e - Upscaling of Structures_e/data/loam contents.
+________________
+
+
+
+
+
+
+________________
+
+
+Version 1.17.0 (01|Oct|2021)
+ 
+ADDED:
+* cup_terrains_buildings - Added Bunker Garage Model. (Credits to Dmitry Yuri.)
+* cup_terrains_buildings - Added Mezzanine Warehouse 01/01a (Marked and Unmarked)
+* cup_terrains_buildings - Added Mezzanine Warehouse 02/02a (Marked and Unmarked)
+* cup_terrains_buildings - Added Mezzanine Warehouse 03/03a (Marked and Unmarked)
+* cup_terrains_buildings - Added Tenement 01.
+* cup_terrains_buildings,ca_buildings - Roof tile textures in red and grey variants.
+ 
+FIXED:
+* cup_terrains_ca_buildings2,ca_structures,ca_structures_c,worlds - Fixed view and fire geometry lod inconsistencies with A_Office01.p3d.
+* cup_terrains_ca_buildings - Fixed corrupted NavigLight.p3d
+* cup_terrains_ca_buildings - Fixed missing UV Data for lods 2 and 3 on Sara_Hasic_zbroj.p3d
+* cup_terrains_ca_roads2 - New geolod to fix binarize crashing on packing for Bridge_stone_asf2_25.
+* cup_terrains_ca_structures,ca_structures_c - hospital glasses now are all working correctly, thanks to Reyhard
+ 
+IMPROVED:
+* cup_terrains_buildings,ca_buildings - Retexture of Sara_Hasic_zbroj.
+* cup_terrains_buildings - Changed penetration material for the walls of all school modules.
+* cup_terrains_buildings - Optimized section count on school modules.
+* cup_terrains_ca_buildings2,ca_rocks2 - Retexture of R2 rock set.
+* cup_terrains_ca_buildings2,ca_structures,ca_structures_c,worlds - Changed a number of furniture proxies to use visualex shadow generation.
+* cup_terrains_ca_buildings2,ca_structures,ca_structures_c,worlds - Retexured A_Office01.p3d
+* cup_terrains_ca_buildings2,ca_structures,ca_structures_c,worlds - Replaced static interior doors with openable ones in A_Office01.p3d
+* cup_terrains_ca_buildings2 - Upscaled textures for harbour crane.
+* cup_terrains_ca_buildings,ca_buildings2,ca_misc,ca_structures - Upscaled textures for Fuel_Tank_Big and Fuel_Tank_Small.
+* cup_terrains_ca_buildings,ca_buildings2,ca_misc,ca_structures - Upscaled textures for ind_tanksmall2.
+* cup_terrains_ca_buildings,ca_buildings2,ca_misc,ca_structures - Upscaled textures for misc_concrete.
+* cup_terrains_ca_buildings,ca_buildings2,ca_misc,ca_structures - Upscaled textures for Misc_GContainer_Big.
+* cup_terrains_ca_buildings,ca_buildings2,ca_misc,ca_structures - Upscaled textures for Nasypka.
+* cup_terrains_ca_buildings,ca_buildings2,ca_misc,ca_structures - Upscaled textures for various furniture proxies.
+* cup_terrains_ca_buildings - Retex of Sara_domek_sedy.
+* cup_terrains_ca_buildings - Retex of Sara_domek_zluty, Dum_mesto2 and dum_olezlina_open.
+* cup_terrains_ca_plants2 - Upscale of plants2 plant textures.
+* cup_terrains_ca_plants_e2 - Upscale of summer plants textures.
+* cup_terrains_ca_structures,ca_structures_c - hospital armor value increased to 10000
+* cup_terrains_ca_structures - Upscale of rail wagon textures.
+________________
+
+
+________________
+
+
+Version 1.16.1 (23|Sep|2020)
+ 
+IMPROVED:
+* cup_terrains_ca_misc_e - Copied Hlidac_budka changes to Hlidac_budka_ep1.
+ 
+OTHER:
+* cup_terrains_buildings - & Adjusted ladder memory points.
+* cup_terrains_ca_signs2 - & Fixed text on Novaya settlement sign.
+ 
+________________
+
+
+________________
+
+
+Version 1.16.0 (14|Sep|2020)
+
+
+ADDED:
+* cup_terrains_buildings - Added platform objects.
+* cup_terrains_buildings - Added School Building Modules:
+* cup_terrains_buildings - Classroom A 01
+* cup_terrains_buildings - Classroom A 02
+* cup_terrains_buildings - Classroom B 01
+* cup_terrains_buildings - Classroom C 01
+* cup_terrains_buildings - Classroom C 02
+* cup_terrains_buildings - Corner
+* cup_terrains_buildings - End A 01
+* cup_terrains_buildings - End A 02
+* cup_terrains_buildings - End B 01
+* cup_terrains_buildings - End B 02
+* cup_terrains_buildings - Entrance A 01
+* cup_terrains_buildings - Entrance A 02
+* cup_terrains_buildings - Stairs A 01
+* cup_terrains_buildings - Stairs B 01
+* cup_terrains_editor_c - School editor subcategory.
+* cup_terrains_buildings,editor_c - Added Infrastructure editor subcategory
+* cup_terrains_ca_structures - Non LC variants of Castle Bastion and Castle Stairs.
+
+
+ 
+FIXED:
+* cup_terrains_ca_buildings_c,compositions - Hide duplicate "Tent A".
+* cup_terrains_ca_buildings_c,compositions - Hide duplicate "Tent East" and "Tent East C".
+* cup_terrains_ca_buildings_c,compositions - Hide duplicate "Tent" and "Tent (Open)".
+* cup_terrains_ca_structures_e - Missing staircase collision geometry in House_C_10_EP1.
+* cup_terrains_ca_structures_e - Removed extra fire geometry component from second staircase in House_K_6_EP1.
+* cup_terrains_ca_structures_e - Removed extra glass geometry component from House_C_3_EP1.
+ 
+IMPROVED:
+
+
+* cup_terrains_ca_buildings2 - New Ind_Mlyn_03 interior.
+* cup_terrains_ca_buildings2 - New Ind_Mlyn_02 interior.
+* cup_terrains_ca_buildings2 - Retextured Ind_Mlyn_04 to be inline with other Mlyn buildings.
+* cup_terrains_buildings,editor_c - Updated Myln Editor Previews
+* cup_terrains_ca_buildings - Added firelod to Hlidac_budka.
+* cup_terrains_ca_buildings - Retexture of Hlidac_budka.
+* cup_terrains_ca_buildings - Retex of stodola_old_open.
+* cup_terrains_ca_buildings_c,editor_c - Land_Fuelstation is now visible in editor
+* cup_terrains_ca_roads2 - Allowed dam_concP_20 pieces to function as bridges.
+* cup_terrains_ca_structures - Changed map value to "hospital" for A_Hospital.
+* cup_terrains_ca_structures - Changed rubble texture on castle ruins models for Enoch equivalent.
+* cup_terrains_ca_structures - Increased length of the roadway lod at the entrance of A_Castle_Bergfrit.
+* cup_terrains_ca_structures - Increased width of the roadway lod at the top of A_Castle_Bastion.
+* cup_terrains_ca_structures - Removed incorrectly functioning occluders from castle objects.
+* cup_terrains_ca_structures - Removed small railing section from the top of A_Castle_Stairs_A.

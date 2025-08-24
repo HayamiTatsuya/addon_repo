@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BuildFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ProjectName>gref</ProjectName>
+  <Version>0.5.6</Version>
+  <Files>
+    <File>
+      <FileName>rhsgref_a29</FileName>
+      <MD5>80c1ebe5e9b759aeaf4eaf842cce7e02</MD5>
+      <SHA1>f2262c282ffd0112404275ffbe0fbd805f76fd04</SHA1>
+      <DateModified>08/04/2020 11:38:16</DateModified>
+    </File>
+    <File>
+      <FileName>rhsgref_a2port_armor</FileName>
+      <MD5>07e3b0d36b9b7bb111cc82527fdfc1ae</MD5>
+      <SHA1>ff03f783ca62618591fa6605bdd4fc95b87a443a</SHA1>
+      <DateModified>04/17/2021 12:01:37</DateModified>
+    </File>
+    <File>
+      <FileName>rhsgref_air</FileName>
+      <MD5>f20d8c19262fae146fb8abe5a34f45b1</MD5>
+      <SHA1>45e50ea564b037cc33e17cb7583a35522944c98c</SHA1>
+      <DateModified>08/06/2020 19:29:46</DateModified>
+    </File>
+    <File>
+      <FileName>rhsgref_airweapons</FileName>
+      <MD5>adc7f82d88773436c68dc92ff0e4f551</MD5>
+      <SHA1>74946164a180ada1ee5e8603f9b1ac45cd43907b</SHA1>
+      <DateModified>01/19/2020 07:33:40</DateModified>
+    </File>
+    <File>
+      <FileName>rhsgref_canoe</FileName>
+      <MD5>58bf6f0373f7a01a1e766c3c1c310c11</MD5>
+      <SHA1>170873b4f13325da345d425d25af518eb6e482bc</SHA1>
+      <DateModified>01/19/2020 07:39:05</DateModified>
+    </File>
+    <File>
+      <FileName>rhsgref_c_a29</FileName>
+      <MD5>b9d88245e03d10cba6734b0c9d498641</MD5>
+      <SHA1>1d2eb544bec7079fb060fa762754cf7d8c388c88</SHA1>
+      <DateModified>05/09/2021 10:08:21</DateModified>
+    </File>
+    <File>
+      <FileName>rhsgref_c_a2port_armor</FileName>
+      <MD5>7d4a2b20d6ce7d9c5523188f0774ec76</MD5>
+      <SHA1>8fc3c2c8931966a7b9289562d873a9b19b0e5fa2</SHA1>
+      <DateModified>05/09/2021 10:08:27</DateModified>
+    </File>
+    <File>
+      <FileName>rhsgref_c_air</FileName>
+      <MD5>4e0e61aff5dfb7e817c40b198fcafa70</MD5>
+      <SHA1>5e0f2d899e6ed4005c5b569e5d6c41d326944b82</SHA1>
+      <DateModified>05/09/2021 10:08:10</DateModified>
+    </File>
+    <File>
+      <FileName>rhsgref_c_airweapons</FileName>
+      <MD5>3eab733b9138caf3e95c112cadb3f9ad</MD5>
+      <SHA1>159813599b1c67c5c74d92b2f9248b7762378e62</SHA1>
+      <DateModified>05/06/2021 16:33:31</DateModified>
+    </File>
+    <File>
+      <FileName>rhsgref_c_canoe</FileName>
+      <MD5>5a4c3af5891e5385b02ef4aa27527d6e</MD5>
+      <SHA1>43e23066bd630fee7cf1f7f2fc601a93f7471c9e</SHA1>
+      <DateModified>01/19/2020 07:29:24</DateModified>
+    </File>
+    <File>
+      <FileName>rhsgref_c_radar</FileName>
+      <MD5>11abcc2486c834f3dcb7d6e6fedca4e5</MD5>
+      <SHA1>a2f820e29a581abccb0972f353bcc109d4d31dd5</SHA1>
+      <DateModified>01/19/2020 07:29:36</DateModified>
+    </File>
+    <File>
+      <FileName>rhsgref_c_radio</FileName>
+      <MD5>ff8aa182c253d8214e277b68e0edf9ca</MD5>
+      <SHA1>5d73a2f2f6e2f747a527b81cf08f0439fe9cb57d</SHA1>
+      <DateModified>05/13/2020 17:25:58</DateModified>
+    </File>
+    <File>
+      <FileName>rhsgref_c_tohport_air</FileName>
+      <MD5>672c40992da88bedafd89609a9143318</MD5>
+      <SHA1>7161feae77b92cf8bd8f8bf6f6b77323f75fb9ff</SHA1>
+      <DateModified>08/22/2020 13:32:48</DateModified>
+    </File>
+    <File>
+      <FileName>rhsgref_c_troops</FileName>
+      <MD5>39ad1414a2abc9c71ac7cc90786b6612</MD5>
+      <SHA1>2c067f2530feebd794ad1b425bc3390327039504</SHA1>
+      <DateModified>04/30/2021 21:54:27</DateModified>
+    </File>
+    <File>
+      <FileName>rhsgref_c_vehicles_ret</FileName>
+      <MD5>09e998b450ee21ded9ae72fe5403c725</MD5>
+      <SHA1>c24652fb9c87aa68c4715e09ed2d6f37baca538c</SHA1>
+      <DateModified>05/09/2021 10:08:24</DateModified>
+    </File>
+    <File>
+      <FileName>rhsgref_c_weapons</FileName>
+      <MD5>fd80159267a3aadabfb7915894d654b6</MD5>
+      <SHA1>5852c99cccfffcba6e2ca6769071f1621e8eadea</SHA1>
+      <DateModified>05/06/2021 16:33:29</DateModified>
+    </File>
+    <File>
+      <FileName>rhsgref_editorpreviews</FileName>
+      <MD5>0816b74afc6b8e0697f3bfbe0817ae48</MD5>
+      <SHA1>6b6f4b7041638cb53f4a0880f86f100d5a4b6a75</SHA1>
+      <DateModified>05/09/2021 09:15:53</DateModified>
+    </File>
+    <File>
+      <FileName>rhsgref_infantry</FileName>
+      <MD5>0d7b96226ea5857f311e2ae1d01cca3f</MD5>
+      <SHA1>9d409fdf726de6c5b99a0925cb6aea788e56b5ca</SHA1>
+      <DateModified>11/12/2020 14:16:11</DateModified>
+    </File>
+    <File>
+      <FileName>rhsgref_inventoryicons</FileName>
+      <MD5>56be08bd44b02f84a2fdc66802ce1269</MD5>
+      <SHA1>28fc32b605394b979647abd810e9e94dd886f24a</SHA1>
+      <DateModified>04/13/2021 07:30:40</DateModified>
+    </File>
+    <File>
+      <FileName>rhsgref_main</FileName>
+      <MD5>54332d4c032fb57e4324036194170d65</MD5>
+      <SHA1>08b096180581c25ee78b396d0d544afb748e16d9</SHA1>
+      <DateModified>03/25/2021 00:57:13</DateModified>
+    </File>
+    <File>
+      <FileName>rhsgref_muzzleflash</FileName>
+      <MD5>8cb5ae9971fc687da557d22c08faae43</MD5>
+      <SHA1>ae5659695a1e9a9521bee76ad4963abdd7c244c6</SHA1>
+      <DateModified>09/02/2020 17:44:17</DateModified>
+    </File>
+    <File>
+      <FileName>rhsgref_radar</FileName>
+      <MD5>8044aa9f5cda4f9e931b4198c4f112b5</MD5>
+      <SHA1>de4152d52b1c46c844b64dd7ed3f8c187b814e19</SHA1>
+      <DateModified>01/19/2020 07:40:18</DateModified>
+    </File>
+    <File>
+      <FileName>rhsgref_sounds</FileName>
+      <MD5>eee46b2dc81d31175100a81c3a6b33a1</MD5>
+      <SHA1>a5ddb170f520eb3f3ddd6562093b450415d81843</SHA1>
+      <DateModified>01/19/2020 07:48:08</DateModified>
+    </File>
+    <File>
+      <FileName>rhsgref_s_radio</FileName>
+      <MD5>b5a423aaf35a89fc3d2be3c5032c6c58</MD5>
+      <SHA1>30ffa49b86fa721826994f24bfdc5c057a1db506</SHA1>
+      <DateModified>01/19/2020 07:38:13</DateModified>
+    </File>
+    <File>
+      <FileName>rhsgref_tohport_air</FileName>
+      <MD5>e879e28f155566018baeec8b54c62dc1</MD5>
+      <SHA1>0ad20a1bbe46254216b7a4ae4fc64297c72f37d8</SHA1>
+      <DateModified>08/06/2020 19:27:35</DateModified>
+    </File>
+    <File>
+      <FileName>rhsgref_vehicles_ret</FileName>
+      <MD5>091e726416abaf1f74dec6977508dab7</MD5>
+      <SHA1>25c939df5cc554cf7311f3325ea3e7131b81aa43</SHA1>
+      <DateModified>05/06/2021 17:00:59</DateModified>
+    </File>
+    <File>
+      <FileName>rhsgref_weapons</FileName>
+      <MD5>acf47356dc340471763cec2069c55aeb</MD5>
+      <SHA1>f09582bd63a95535dcdd94328ac7be0fb7a587a0</SHA1>
+      <DateModified>08/19/2020 12:34:34</DateModified>
+    </File>
+    <File>
+      <FileName>rhsgref_weapons2</FileName>
+      <MD5>60c83c5124a285156d365c421f28c242</MD5>
+      <SHA1>6a95a6600b8aca39927f9249dafddde6aa81beaf</SHA1>
+      <DateModified>03/17/2021 00:55:44</DateModified>
+    </File>
+    <File>
+      <FileName>rhsgref_weapons3</FileName>
+      <MD5>d166fa890e8096ea9565c9d9eb6d11de</MD5>
+      <SHA1>8cb93582f2b3205ca3e8c0c3c947a1324aa14519</SHA1>
+      <DateModified>03/25/2021 19:22:21</DateModified>
+    </File>
+    <File>
+      <FileName>rhsgref_weapon_sounds</FileName>
+      <MD5>4e5d82465691508b393d119d0ce7424b</MD5>
+      <SHA1>44897cd351b83263451f1fb228ab3ada159a3160</SHA1>
+      <DateModified>05/13/2020 17:26:14</DateModified>
+    </File>
+  </Files>
+</BuildFile>

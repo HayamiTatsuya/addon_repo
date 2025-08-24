@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BuildFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ProjectName>saf</ProjectName>
+  <Version>0.5.6</Version>
+  <Files>
+    <File>
+      <FileName>rhssaf_backpacks</FileName>
+      <MD5>240bb3b7e23ea495daa4ac4ef8ad2484</MD5>
+      <SHA1>5bc44d2549ac3fccfca2400ef96f5add462460cf</SHA1>
+      <DateModified>11/22/2020 00:02:34</DateModified>
+    </File>
+    <File>
+      <FileName>rhssaf_binoculars</FileName>
+      <MD5>c1161b6f57ce82f488e5110a52b29c0a</MD5>
+      <SHA1>12b21d98995677229dac56b049efa28fe7b63c22</SHA1>
+      <DateModified>11/22/2020 00:08:20</DateModified>
+    </File>
+    <File>
+      <FileName>rhssaf_c_gear</FileName>
+      <MD5>426aba7812d5af5a5a6dcfe11b24695e</MD5>
+      <SHA1>93b0252e2b43e46cbed69bffeafe63232c7b81f8</SHA1>
+      <DateModified>11/22/2020 00:17:40</DateModified>
+    </File>
+    <File>
+      <FileName>rhssaf_c_troops</FileName>
+      <MD5>72757f36271f8d2a15e0360d9e615bee</MD5>
+      <SHA1>63023ecc7c72c6f246eb6182e508a7872b40fc20</SHA1>
+      <DateModified>11/22/2020 00:00:34</DateModified>
+    </File>
+    <File>
+      <FileName>rhssaf_c_vehicles</FileName>
+      <MD5>279eee5712c626271960575e71e79570</MD5>
+      <SHA1>c95c0ff7d8a7fb19c3008d103fcfa69eb99c5b65</SHA1>
+      <DateModified>11/23/2020 21:38:01</DateModified>
+    </File>
+    <File>
+      <FileName>rhssaf_c_weapons</FileName>
+      <MD5>96e052acebd9c7766a33915a99195629</MD5>
+      <SHA1>b86c76d809430c5c2a89b01121114a104b7e6ab7</SHA1>
+      <DateModified>05/06/2021 16:37:40</DateModified>
+    </File>
+    <File>
+      <FileName>rhssaf_editorpreviews</FileName>
+      <MD5>ad54611163bf058b8e976b207a81b05c</MD5>
+      <SHA1>e6c8c4b7ab3fa77054dda0eea87d73ff9f7c05c5</SHA1>
+      <DateModified>11/23/2020 21:38:09</DateModified>
+    </File>
+    <File>
+      <FileName>rhssaf_inventoryicons</FileName>
+      <MD5>ddeb02af18fe2e3c6c566099d2abe786</MD5>
+      <SHA1>c41524ed78d5a67f80a09426ab94662b86025be0</SHA1>
+      <DateModified>03/23/2021 20:34:58</DateModified>
+    </File>
+    <File>
+      <FileName>rhssaf_main</FileName>
+      <MD5>9b9245ab02d8e8d3b282bf32485eca1a</MD5>
+      <SHA1>05d19e7505d104a2df74c7c0b4ca4f1a11285ef2</SHA1>
+      <DateModified>11/22/2020 00:00:42</DateModified>
+    </File>
+    <File>
+      <FileName>rhssaf_muzzleflash</FileName>
+      <MD5>b96b9face1f7e052f720cb008f927c40</MD5>
+      <SHA1>dcaf9bd903b7984259396f06bfd97e8275beb785</SHA1>
+      <DateModified>11/22/2020 00:07:27</DateModified>
+    </File>
+    <File>
+      <FileName>rhssaf_m_explosives</FileName>
+      <MD5>6496db0bb36fece4d0229567128634cb</MD5>
+      <SHA1>f8173466264d15b90c8bd99604488dc14cdd37ac</SHA1>
+      <DateModified>11/22/2020 00:18:49</DateModified>
+    </File>
+    <File>
+      <FileName>rhssaf_m_headgear_beret</FileName>
+      <MD5>279ea8091bc49638af6d87a1ef760921</MD5>
+      <SHA1>6a96d80dcbc6fb7c374bd8ee11197bbb7911411d</SHA1>
+      <DateModified>11/22/2020 00:09:50</DateModified>
+    </File>
+    <File>
+      <FileName>rhssaf_m_headgear_m59</FileName>
+      <MD5>9caeb76d1bfd5c1c6a53bf37b8f3ce03</MD5>
+      <SHA1>638e06173e70990b4994adefe5201f4287a271fa</SHA1>
+      <DateModified>11/22/2020 00:20:28</DateModified>
+    </File>
+    <File>
+      <FileName>rhssaf_m_headgear_m97</FileName>
+      <MD5>ba8378586f45024d27619699464a0d6d</MD5>
+      <SHA1>4108b878b763de149aea16734bcf03ebd3b6495e</SHA1>
+      <DateModified>11/22/2020 00:21:21</DateModified>
+    </File>
+    <File>
+      <FileName>rhssaf_m_headgear_veil</FileName>
+      <MD5>a811cf13a323514efe46ff6ac6cc7c91</MD5>
+      <SHA1>55339d6c7672978c8247ec4c765e5a858b38fe63</SHA1>
+      <DateModified>11/22/2020 00:11:21</DateModified>
+    </File>
+    <File>
+      <FileName>rhssaf_m_uniform_m10</FileName>
+      <MD5>635821bab5a22d038ec781bd5d782884</MD5>
+      <SHA1>5e8ceb7b5cde53918f5ee735e190774fd74c83bf</SHA1>
+      <DateModified>11/22/2020 00:06:41</DateModified>
+    </File>
+    <File>
+      <FileName>rhssaf_m_uniform_m93</FileName>
+      <MD5>005105b10e9bc20911989632b7b15a47</MD5>
+      <SHA1>f7aa377514f27f62606396142d47fb262922bf49</SHA1>
+      <DateModified>11/22/2020 00:02:29</DateModified>
+    </File>
+    <File>
+      <FileName>rhssaf_m_uniform_mdt</FileName>
+      <MD5>1c96411bcb19bfb0f819c1754f44d920</MD5>
+      <SHA1>ea230e6be456399480dbdbc780eaccf0320b0a12</SHA1>
+      <DateModified>11/21/2020 23:58:46</DateModified>
+    </File>
+    <File>
+      <FileName>rhssaf_m_uniform_pilot</FileName>
+      <MD5>4fdef72eedc186ece32ac0348e43c7c1</MD5>
+      <SHA1>5a4afad3f29573635edc90ac50ab8cddfe1276b3</SHA1>
+      <DateModified>11/22/2020 00:08:15</DateModified>
+    </File>
+    <File>
+      <FileName>rhssaf_m_vest_m12</FileName>
+      <MD5>be1b6c317a4c2761942044c016034aa3</MD5>
+      <SHA1>9accdeb2b823e86bb94f8a1266e99efdd5e35c3a</SHA1>
+      <DateModified>11/22/2020 00:19:38</DateModified>
+    </File>
+    <File>
+      <FileName>rhssaf_m_vest_m98</FileName>
+      <MD5>9a64e59cbcfd055577617cd1bba1252f</MD5>
+      <SHA1>40e6c230eb3e04b413d37afbe77ceea0cdbe4fb6</SHA1>
+      <DateModified>11/22/2020 00:13:43</DateModified>
+    </File>
+    <File>
+      <FileName>rhssaf_m_vest_m99</FileName>
+      <MD5>481c4f63ca1a509b689d2b893440031b</MD5>
+      <SHA1>be6219f02ecd726b87816f9189d4c9230b492602</SHA1>
+      <DateModified>11/22/2020 00:12:10</DateModified>
+    </File>
+    <File>
+      <FileName>rhssaf_m_weapon_cz99</FileName>
+      <MD5>f35aebb096e7dd1a8dee0f909a7f8722</MD5>
+      <SHA1>038704a4fd06486c1d259547803806dd01795e5b</SHA1>
+      <DateModified>11/22/2020 00:16:50</DateModified>
+    </File>
+    <File>
+      <FileName>rhssaf_m_weapon_g36</FileName>
+      <MD5>c4903ea4c4735351f6f0449de30541aa</MD5>
+      <SHA1>faea9f9cdd6e13ae44a7d8290b21dc7a095e7726</SHA1>
+      <DateModified>11/22/2020 00:16:05</DateModified>
+    </File>
+    <File>
+      <FileName>rhssaf_m_weapon_m21</FileName>
+      <MD5>85f27b2a32394d213579a889b78dc602</MD5>
+      <SHA1>1cc5fb7ec4117397adf3a4a8fc10972fd58387fe</SHA1>
+      <DateModified>11/22/2020 00:01:41</DateModified>
+    </File>
+    <File>
+      <FileName>rhssaf_m_weapon_m70</FileName>
+      <MD5>9ca1de5285965595eb3a184f57783a94</MD5>
+      <SHA1>82107ed5fc9f53a8f5ce287cb8dffc2debe0b002</SHA1>
+      <DateModified>11/22/2020 00:14:52</DateModified>
+    </File>
+    <File>
+      <FileName>rhssaf_m_weapon_m70c</FileName>
+      <MD5>e165ad48fee01d7fc3fd66bb750c0130</MD5>
+      <SHA1>d0a9269e0eb7a187fafb38f6a8d4d874a351b2c9</SHA1>
+      <DateModified>11/22/2020 00:12:54</DateModified>
+    </File>
+    <File>
+      <FileName>rhssaf_m_weapon_m76</FileName>
+      <MD5>c6f6c1dee715d00e927daf41ed482f0e</MD5>
+      <SHA1>a461b7319ad54e5ceaf6e83466df82595847eb51</SHA1>
+      <DateModified>11/22/2020 00:09:06</DateModified>
+    </File>
+    <File>
+      <FileName>rhssaf_m_weapon_m80</FileName>
+      <MD5>e6a64297af4c417b75f383f4f549a6c5</MD5>
+      <SHA1>8459185754cdad72fd3c92a95417921b6bec7cde</SHA1>
+      <DateModified>11/22/2020 00:00:29</DateModified>
+    </File>
+    <File>
+      <FileName>rhssaf_m_weapon_m84</FileName>
+      <MD5>d240e3de33c6495501ba5565d00137b4</MD5>
+      <SHA1>2186464c0953311a7eac6d1d7b0307cc70def92f</SHA1>
+      <DateModified>11/21/2020 23:59:30</DateModified>
+    </File>
+    <File>
+      <FileName>rhssaf_m_weapon_m92</FileName>
+      <MD5>b6020adea4915b3290ad29acfa175af4</MD5>
+      <SHA1>aa2b70d019dede70690f184a3296cbf7a4c1f4b4</SHA1>
+      <DateModified>11/22/2020 00:10:37</DateModified>
+    </File>
+    <File>
+      <FileName>rhssaf_m_weapon_scar</FileName>
+      <MD5>05cae859aaed2704687c5e30f54e1e5d</MD5>
+      <SHA1>2f8798092ef6b092e5465109589b5d8a6fb7af69</SHA1>
+      <DateModified>11/22/2020 00:05:06</DateModified>
+    </File>
+    <File>
+      <FileName>rhssaf_m_weapon_scorpion</FileName>
+      <MD5>1fe5a90f0296ab9e16724f0bf5f3f568</MD5>
+      <SHA1>290a006d6833115adeb73b4856ec5e75dcdfb01f</SHA1>
+      <DateModified>11/22/2020 00:17:35</DateModified>
+    </File>
+    <File>
+      <FileName>rhssaf_sounds</FileName>
+      <MD5>50cca9b5cca08460717bf8bcf83edd96</MD5>
+      <SHA1>74af785f5a007e96b248cf9e04f4497e06817e58</SHA1>
+      <DateModified>11/22/2020 00:05:49</DateModified>
+    </File>
+    <File>
+      <FileName>rhssaf_t_explosives</FileName>
+      <MD5>a8302648b9512984b74bfeae54846b65</MD5>
+      <SHA1>4980d992a1c3157ec1813c8a4627a281c348cf6e</SHA1>
+      <DateModified>11/22/2020 00:00:40</DateModified>
+    </File>
+    <File>
+      <FileName>rhssaf_t_gear_a3</FileName>
+      <MD5>6d29d06dd19082df2982a4e47a19f727</MD5>
+      <SHA1>025bbea9121b6eac6c6aa12dbc02b18a878024d6</SHA1>
+      <DateModified>11/22/2020 00:14:54</DateModified>
+    </File>
+    <File>
+      <FileName>rhssaf_t_headgear_beret</FileName>
+      <MD5>5915c8da9b5cf8cf6177c08293f4a96a</MD5>
+      <SHA1>972f118243419900637c24bbc5d084cb269500c4</SHA1>
+      <DateModified>11/22/2020 00:20:36</DateModified>
+    </File>
+    <File>
+      <FileName>rhssaf_t_headgear_m59</FileName>
+      <MD5>4864d1ccfd80c19a6b057b77bb3f3517</MD5>
+      <SHA1>4edf8ab1af7410e6bf22180f4cff4974cacca744</SHA1>
+      <DateModified>11/22/2020 00:02:43</DateModified>
+    </File>
+    <File>
+      <FileName>rhssaf_t_headgear_m97</FileName>
+      <MD5>4bb052d789d63c1bbce57afb63af7deb</MD5>
+      <SHA1>128e853001859653b5e74775cc32df57b07b9e6d</SHA1>
+      <DateModified>11/22/2020 00:02:41</DateModified>
+    </File>
+    <File>
+      <FileName>rhssaf_t_headgear_ret</FileName>
+      <MD5>260bbf43af4e8b61b8b0da3ec0d09bcc</MD5>
+      <SHA1>58843a5ebb3a77e939009cdad3d119d53ff1543f</SHA1>
+      <DateModified>11/22/2020 00:09:07</DateModified>
+    </File>
+    <File>
+      <FileName>rhssaf_t_headgear_veil</FileName>
+      <MD5>3dd8fdb717b27335df67e5d877808262</MD5>
+      <SHA1>ab5598c0026a45fd13fb6698f26fe9fa4cb4a98f</SHA1>
+      <DateModified>11/22/2020 00:07:29</DateModified>
+    </File>
+    <File>
+      <FileName>rhssaf_t_uniform_m10</FileName>
+      <MD5>85d400355c59f935f43cdaebf649de44</MD5>
+      <SHA1>b7638f52369af70265a59081a1073609cf48a70c</SHA1>
+      <DateModified>11/22/2020 00:02:37</DateModified>
+    </File>
+    <File>
+      <FileName>rhssaf_t_uniform_m93</FileName>
+      <MD5>9ad13a2af3c2d0c0aada1705d7a4802d</MD5>
+      <SHA1>8e0c15890f6baa2c9166f3a5518d9ecc43131aed</SHA1>
+      <DateModified>11/21/2020 23:59:41</DateModified>
+    </File>
+    <File>
+      <FileName>rhssaf_t_uniform_mdt</FileName>
+      <MD5>afaef078dab44bd33106b1bed0b9c0fa</MD5>
+      <SHA1>af400341765c631c050a249fd312fd965fa76a29</SHA1>
+      <DateModified>11/22/2020 00:20:33</DateModified>
+    </File>
+    <File>
+      <FileName>rhssaf_t_uniform_pilot</FileName>
+      <MD5>eabbe55effb15986f76015fa65e1ca11</MD5>
+      <SHA1>ccecf6eccdfcd01f92e3f9b5bdaeb4da51043d15</SHA1>
+      <DateModified>11/22/2020 00:05:52</DateModified>
+    </File>
+    <File>
+      <FileName>rhssaf_t_vehicle_ret</FileName>
+      <MD5>4344025d34920feaa849773b0746d56c</MD5>
+      <SHA1>b9c69c07b37bcd11cf7b221a1cbb65319595f776</SHA1>
+      <DateModified>11/22/2020 00:18:53</DateModified>
+    </File>
+    <File>
+      <FileName>rhssaf_t_vest_m12</FileName>
+      <MD5>19cc83ce9747edc047000bcb3546ee01</MD5>
+      <SHA1>5cea5d16b879abd14de7caf1f8fa52002692837b</SHA1>
+      <DateModified>11/22/2020 00:01:43</DateModified>
+    </File>
+    <File>
+      <FileName>rhssaf_t_vest_m98</FileName>
+      <MD5>476f39f46f831ec94a613d8fda66c73d</MD5>
+      <SHA1>33ac6bd36ae7448ef20ae58d8c6f24de1ec1134a</SHA1>
+      <DateModified>11/21/2020 23:57:48</DateModified>
+    </File>
+    <File>
+      <FileName>rhssaf_t_vest_m99</FileName>
+      <MD5>72a5b8fdd1768498402756c307717a9c</MD5>
+      <SHA1>5bc8bc4541d150b7c8527568e23f7e80cf16b8b8</SHA1>
+      <DateModified>11/21/2020 23:57:45</DateModified>
+    </File>
+    <File>
+      <FileName>rhssaf_t_weapon_cz99</FileName>
+      <MD5>57684f4f20d69c4362f731bcdf9f0e2b</MD5>
+      <SHA1>6976ca6e35d0b3440273e81ff49f90358c7251a4</SHA1>
+      <DateModified>11/22/2020 00:12:56</DateModified>
+    </File>
+    <File>
+      <FileName>rhssaf_t_weapon_g36</FileName>
+      <MD5>21d314be151177d0a3ba5bbe174d9723</MD5>
+      <SHA1>2d6848db92927a726cfeb64b383bac59c6fa0914</SHA1>
+      <DateModified>11/21/2020 23:59:39</DateModified>
+    </File>
+    <File>
+      <FileName>rhssaf_t_weapon_m21</FileName>
+      <MD5>16e825a72206ae92f4a78252958e2a18</MD5>
+      <SHA1>e85c1279c8a4bc4cf37270f9fb9e46a397ea9c10</SHA1>
+      <DateModified>11/22/2020 00:10:39</DateModified>
+    </File>
+    <File>
+      <FileName>rhssaf_t_weapon_m70</FileName>
+      <MD5>51c01a195407fb577b0d2474ce1655f4</MD5>
+      <SHA1>b3fc7c3a4614f33c60cc15b01e7bfe45314b6b19</SHA1>
+      <DateModified>11/21/2020 23:57:51</DateModified>
+    </File>
+    <File>
+      <FileName>rhssaf_t_weapon_m70c</FileName>
+      <MD5>85e13191617f6bd826d5bf3a8f86a104</MD5>
+      <SHA1>d031faed184ca353703dc0f6ee97ded089ec828f</SHA1>
+      <DateModified>11/22/2020 00:07:28</DateModified>
+    </File>
+    <File>
+      <FileName>rhssaf_t_weapon_m76</FileName>
+      <MD5>9f9b12c862059aca88c5ce7daff48fe8</MD5>
+      <SHA1>1faae76217688e6fa81fc1b30227134c62034ac4</SHA1>
+      <DateModified>11/22/2020 00:21:23</DateModified>
+    </File>
+    <File>
+      <FileName>rhssaf_t_weapon_m80</FileName>
+      <MD5>6ca86075121205a0d209b978fdc5077a</MD5>
+      <SHA1>70b7421dfe6d1177a0c52d5e55ba5b773dbadcbc</SHA1>
+      <DateModified>11/22/2020 00:08:22</DateModified>
+    </File>
+    <File>
+      <FileName>rhssaf_t_weapon_m84</FileName>
+      <MD5>fe1d0a0d37a05f96c38a80aa28b975fd</MD5>
+      <SHA1>3c2043744b2b8f6b1b6c97e70964977a1c71e712</SHA1>
+      <DateModified>11/22/2020 00:06:44</DateModified>
+    </File>
+    <File>
+      <FileName>rhssaf_t_weapon_m92</FileName>
+      <MD5>c6d6ac7ee961142b657f100c5bc7e7ff</MD5>
+      <SHA1>253d431fd144809b4af97b43ff3d8e928615d898</SHA1>
+      <DateModified>11/21/2020 23:57:44</DateModified>
+    </File>
+    <File>
+      <FileName>rhssaf_t_weapon_scar</FileName>
+      <MD5>f5d0508c5fd2c1cc3e725398cb7c3378</MD5>
+      <SHA1>e345be2a4729ffbc3c2234d11a73cd9c238c3e88</SHA1>
+      <DateModified>11/22/2020 00:00:36</DateModified>
+    </File>
+    <File>
+      <FileName>rhssaf_t_weapon_scorpion</FileName>
+      <MD5>d75e05c337f104d296421c1ae7912aa8</MD5>
+      <SHA1>1b5faec0628254ecf2059dd930c037a52d65241e</SHA1>
+      <DateModified>11/22/2020 00:13:57</DateModified>
+    </File>
+  </Files>
+</BuildFile>

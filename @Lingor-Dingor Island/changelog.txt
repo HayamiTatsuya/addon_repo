@@ -1,0 +1,250 @@
+Changelog
+=========
+3.9.6
+- fixed: Lingor Apex Mirasol tower object removed (no permission to use that object retextured, wtf?)
+- code fix by Sparfell that removed a conflicting issue between Lingor and Livonia reported by thePier on CUP discord (tnx mates!)
+- obfuscation of files removed
+
+3.9.5
+- fixed: grass and rest of clutter not showing up
+- fixed: 28 objects removed that were causing diagnostic errors and possible CTDs/slowdowns
+- removed large boulder from the street of Calixo
+- improved vegetation in several areas
+- removed vegetation on road Benio-Regina Tributa
+- extended Benio runway for 50 meters or so
+- Maruko reconstructed several buildings and a new TV Station
+- substantial upgrade of New Benio, town allegedly got developed with drug money from Benio Cartel
+- new small seaside resort W of Benio: Villa Flora
+- various smaller fixes (roads, vegetation, etc.)
+
+3.9.3
+- improved the underground complex for mission makers
+- improved shoreline satellite graphics
+- improvements to the mask and grassy areas
+- various smaller fixes (roads, vegetation, etc.)
+
+3.9.2
+- fixed: new signatures based on V2 instead of dev-branch V3 (to avoid stable dedicated server problems)
+- added: village of Gritto
+- added: Isla Avalon has now a bridge connection to mainland as villagers almost rebelled a month ago
+- fixed: airport of Mirasol has now a correct repainted airport tower
+- fixed: various smaller fixes such as vegetation road removal
+
+3.9.1
+- improved satellite map details
+- improved vegetation (old dark trees/bushes replaced with Apex counterparts)
+- improved grass and jungle clutter
+- fixed: vegetation removed from the road section up on North
+- fixed: river area up on NW
+- fixed: easier entrance to the underground bunker
+- added: couple of new detailed areas
+- fixed: grass removed from water in some parts of the map
+- added: excavation site
+- added: helipads near research labs
+- added: some river settlements have new docks
+
+3.9
+- finally: all new Apex vegetation! (DLC is not required)
+- massive improvement of lighting and satellite image of the map
+- new huge sectors to explore with lot of details
+- new town Mirasol on NW with a new unpaved runway
+- burned down villages: Jodido and unnamed one
+- added scrapyard
+- large sector is now GAL training facility with two mock villages
+- 3 new research bases for sci-fi scenarios (Deidre, Scarlett, *censored*)
+- one research base is abandoned and long forgotten
+- added bio storage facility Marika
+- added couple of invisible roads (for AI pathing)
+- added iron gates by poolpunk (thank you!)
+- added bunker objects by Sahbazz (thank you!)
+- fixed incorrect runway numbers at FOB Eddie (greetz to the legend: wld427!)
+- various smaller fixes, too many to mention here
+
+3.82
+- fixed several displaced road pieces
+- removed some underwater stuff not supposed to be there
+- fixed heights and missing ending road piece NW of Calamar
+- additional terrain smoothing
+- mirrored all fixes to Dingor Island
+
+3.81
+- substantial terrain smoothing & various improvements
+- removed CUP CWA dependency (buildings error popup)
+- built four new bridges, rivers are now inter-connected (great for boat patrols)
+- rebuilt the central river area, new remote settlement on an isle
+- fixed long bridges so vehicles don't sink into the asphalt
+- added: Dingor - alternative desert version map!
+- fixed rally path (increased visibility)
+- added more docks to settlements
+- enabled dust effects for vehicles and units
+- replaced wrong in/out signs for town of Vidora
+
+3.8
+- fixed runway numbers at Aeropuerto Sargento (near Calamar)
+- smoothed out terrain
+- improved satellite texture
+- fixed displaced road pieces at several places
+- added three flag texture locations to readme file
+- removed submerged camp from Medlina
+- added Municipal office to Calamar
+- moved start date to non full-moon day/night
+- replaced several palm tree types with new ones (tnx CypeRevenge & Ben Rampling)
+- several smaller fixes
+
+3.66
+- fixed skies & lighting that got wrecked with release of official patch 1.60+
+- improved beach areas
+- fixed dying on start bug in 3DEN
+- fixed missing pbo error in main menu upon loading a mission
+- added small village of Matacan
+- included new jungle sounds
+- several smaller fixes
+
+3.0beta
+- test version for stability report
+- replaced hardened hangars with tent hangars from A3 due to shadow bug & class=house issue
+- intensive improvement of terrain (substantial removal of sharp edges)
+- smaller bug fixes
+
+Arma2 Releases below:
+=====================
+
+1.5
+- numerous changes, extra 200+ hours put in!
+- redesigned NW part of the map, added riverlines and two new towns (Gatoro, Zanjeer)
+- added new jungle island Bantanam on East (on request) - recommended for Unsung/VTE mod experience!
+- very short airstrip on Bantanam, only for most experienced pilots
+- roadworkers smoothed out main roads near Maruko
+- forest changes, added detail
+- factory height fix in Benio, etc.
+
+1.4
+- V2 signatures for all island files
+- rebuilt and upgraded two research bases up on North
+- a lot of terrain steep slopes fixed (tnx to J-Guid)
+- latest brg_africa package included with new working lingor 1.338 key (v2)
+- fixed path near airport terminal fountains
+- docks & crane Maruko height fix (tnx short_German)
+- further improvement to satellite image, especially with hills
+- removal of road vegetation Corazon SW (tnx themaster303)
+- removal of road vegetation near Racetrack (tnx Ei8ght)
+- fence post in the guard house removed (tnx short_German).
+- dirtroad 059040 plants removed (tnx short_German).
+- fixed entry to Rent-A-JG2 hangar
+- smoother terrain near hangar and south end of Sargento runway
+- flattened terrain a bit near 049023
+- fixed some rough edges around Mt. Toris
+- a bit of smoothing in Plantiera S beach area
+- improved E coastal region near Maruko and its beach on NE
+- smoothening of Fernando castle hill
+- fixed racing track, removed vegetation, put gravel to parking place
+- cut down grass around bank parking places
+- smoothed south end of Pista runway
+- fixed bank RPT error, changedarmor value
+- fixed hangar object (can be opened/closed)
+- made NW passage compatible for AI
+- Calamar skyscraper neighbourhood fixes
+- northern bridge to Dressen fixed for AI
+- compound 060017 grass removal / road smoothing
+- fixed placement for gas station near Vidora (tnx RP-mods)
+- added a new gas station in Tucos and at Motodrom (tnx RP-mods)
+- enlarged entrance to sawmill in San Arulco (32-45) (tnx RP-mods)
+- enlarged entrance to factory in SE part of Villon (tnx RP-mods)
+- fixed size of hut on end part of NE bridge, entrance now big enough (tnx Flax)
+- moved landing assist lights not to obstruct AI using road anymore (tnx Flax)
+- removed bush from the road south above Puntella Resort (tnx Flax)
+- fixed asphalt at entrance & parking Villa Florencia
+- small pond stays on road to oil rigs, not a bug
+- added two parking lots for Hotel Calamar
+- grass fixes Motodrom Rapido
+- added new street lamps
+- removed cranes from an obsolete shipyard near Victorin
+- added a street access to Villa Luna
+- added a small asphalt section to a factory in SE Maruko
+- added two concrete blocks to W Maruko residental areas
+
+1.337
+- added crocodilles (use Civilian unit placement or F7 Module)
+- three jetski rental facilities
+- added roadsigns for 17 biggest towns
+- added 50 MSO points for bases, bunkers etc.
+- added final brg_africa v1.24 (V2 signature and antiaris tree texture fix)
+- removed outside terrain
+- removed plants on the road at two locations
+- huge upgrade of City Calamar
+- new town of Bilbado (suburbs of Calamar)
+- new Melana Resort
+- new Rock Cafe near Calamar (local rumor: guys drive cars off the cliff and then eject with a parachute)
+- water color doesnt transfer to other islands anymore (tnx Prowler)
+- river bank improvements, smoother terrain, added rocks
+- flattening of terrain, new mountain rocks
+- new ground textures
+- new plantation near Calapedro river-crossing
+- redesigned Maruko: more space in the Center with couple of new suburbs built
+- rebuilt town of Corazon
+- added a seaplane parking to Corazon (tnx Gnat)
+- upgraded airport lights at Maruko Aeropuerto Internacional
+- upgraded rebel airport at Calamar with revetments and new border fence
+- new asphalt and drawn full lines (no overtaking) on heavy bends to prevent accidents
+- new details: roadsigns, improved bars, garbage containers
+- added speed limit signs (30, 50 and 80)
+- smoothed out roads
+- added dumpyard
+- tweaked one of riddle locations
+- new town of San Arulco in NW central region with three districts: Distrito Turistico, Zona Residencial & Centro Esencia.
+- new Dressen region on SW, two new islands
+- new Benio region near Pista W runway (runway now has a purpose)
+- upgraded RACS FOB Eddie on NW part of island near Fernando, new facilities and new entrance
+- upgraded Checkpoint West with new army base
+- added Adrenalina 4x4 park (three racing tracks: one asphalt, two dirt)
+- added a com-tower with guardhouse on SE island
+- upgraded Maruko airport terminal and a new civilian entrance and parking
+- upgraded road checkpoints Oeste & Sur, added fences to fight drug traffickers
+- added hardened shelters on two airports (FOB Eddie and Sargentas)
+- replaced old rocks with Mikebart's HQ ones
+- 18% FPS increase due to new Mikebart's grass clutter
+- removed vegetation around Maruko airport paths
+- added fence to the crowdstands at airport
+- changed water color
+- several bugfixes, removed plants off roads
+
+1.3
+- improvements to the new Plantiera sector
+- optimizations, smaller bugfixes, improved terrain mask
+
+1.2
+- built a river passage Vidora - Mairango
+- project Malargo complete, two huge bridges to connect Maruko to Mariana isle
+- incorporated new African Foliage 1.24t2 by Berghoff (AI now doesn't have any advantage over human players)
+- brand new satellite image
+- new huge lowland sector Plantiera on Southeast
+- new towns & villages in sector Plantiera
+- added boat docks N of Maruko Airport
+- added a mod logo
+- added bridge & road objects to lingor_objects.pbo
+- rebased the island to Chernarus config
+- fixed road at grid 066021 (near mine)
+- northern Sea is deeper now so Nimitz can park closer to the shore
+- lighthouse in Calamar fixed
+- added a heliport to research lab
+- improved the Aguado river pass
+
+1.1
+- added new Mariana Island just NE of Maruko
+- fixed rain and water sounds to be much lower
+- sounds are now local to Lingor only, not present on other islands
+- clutter config is now compatible with other islands
+- fixed final location of the riddle
+- fixed the island height near Calamar (trees in the water bug)
+- fixed the icon in the island selector menu (national flag)
+- fixed bush position clipping through wall in Maruko
+- fixed some plants near Tucos (tnx Lightspeed_aust)
+- added GAL, ARL & Venator flags (tnx W0lle for flag texture help)
+- removed tall grass from a building in Central South part
+- changed army checkpoint map marker colors to black not to confuse players with objective markers
+- optimized file sizes
+- important note(!): this version uses new bisign key files, so make sure you don't have duplicates (*lingor10.bisign) or you won't be able to join signed dedicated servers! Tip: You can delete duplicate bisign keys even when game is running and try rejoining then.
+
+1.0
+- first public version
+- known issues: Pista, Mariana and FOB Eddie runways don't have ILS installed, Sargentas and FOB Eddie runway numbers are still incorrect.

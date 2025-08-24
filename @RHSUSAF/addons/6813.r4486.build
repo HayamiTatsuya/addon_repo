@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BuildFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ProjectName>usaf</ProjectName>
+  <Version>0.5.6</Version>
+  <Files>
+    <File>
+      <FileName>rhsusf_a2port_air</FileName>
+      <MD5>33d7bb2a6a3f9c89d185e3a6bda84789</MD5>
+      <SHA1>f27ff439eab457b2af0411d151bcdceaa1b33ac0</SHA1>
+      <DateModified>11/24/2020 19:22:47</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_a2port_air2</FileName>
+      <MD5>2f9d7ea12525e83c56f72c71ba89f1d7</MD5>
+      <SHA1>cf666b136de03190e16f31b47a6d80ba2e1ccf8c</SHA1>
+      <DateModified>11/03/2020 17:48:20</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_a2port_armor</FileName>
+      <MD5>c0505d4ececfc49cdac6e3a21a27d163</MD5>
+      <SHA1>c9db7806832443b6dd14728e9b1c7f65dc83612a</SHA1>
+      <DateModified>04/18/2020 22:25:52</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_a2port_car</FileName>
+      <MD5>78aab99f25254005e05005dc271cf75a</MD5>
+      <SHA1>f99091e9e1b68dd4d85d8a349917ce0da8c9101a</SHA1>
+      <DateModified>01/19/2020 17:27:41</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_ah64</FileName>
+      <MD5>e8dabbbe997459897b09e29f423542ec</MD5>
+      <SHA1>f3599b9388324cdfef3622ea747f2fc4f167a236</SHA1>
+      <DateModified>01/19/2020 15:52:48</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_airweapons</FileName>
+      <MD5>4085b31ce318bf275ea0ca2e1ad9d880</MD5>
+      <SHA1>d03cf3409ad65b40f3ca70ec9b2bf5ce5cab2826</SHA1>
+      <DateModified>11/14/2020 12:04:39</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_caiman</FileName>
+      <MD5>063afa485cb72a3477c2557ebfb5ffe1</MD5>
+      <SHA1>467524fae92e7ce89897a9e199b3e6b47089377c</SHA1>
+      <DateModified>04/28/2021 17:05:14</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_cars</FileName>
+      <MD5>c64644130cf284081995e122cec8f786</MD5>
+      <SHA1>4abf28c1fe3c40840ea091462be20aae469b5615</SHA1>
+      <DateModified>01/19/2020 15:45:16</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_ch53</FileName>
+      <MD5>fdfa96cce700699203b0697de049be68</MD5>
+      <SHA1>1bf6d9ec1fa0b6c5a00b5ccccdbd59f2acea7445</SHA1>
+      <DateModified>11/03/2020 17:49:57</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_commskit</FileName>
+      <MD5>ebce5959f11d5f84ffb6cf2c2f7aa7ba</MD5>
+      <SHA1>09894065ad3894c16bf635e407cdba450d697600</SHA1>
+      <DateModified>12/06/2020 14:57:35</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_cougar</FileName>
+      <MD5>dbc6845507581c24e4398f3f8878e4ea</MD5>
+      <SHA1>80a1fd523ce3a69c16bafa05d2130de694cca4ce</SHA1>
+      <DateModified>04/28/2021 17:17:31</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_c_a2port_air</FileName>
+      <MD5>784a6902eb30119c7a505b85ccffc75f</MD5>
+      <SHA1>3e5edc6e77e6b4e877d58f75f7681be92f7ccacd</SHA1>
+      <DateModified>05/09/2021 10:17:35</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_c_a2port_armor</FileName>
+      <MD5>914ea48104118f1a7246bd1ebff8c0b0</MD5>
+      <SHA1>ba9f459760b5f665a3096b7e861cf2762f4d30bf</SHA1>
+      <DateModified>05/09/2021 10:16:50</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_c_a2port_car</FileName>
+      <MD5>bff9785b021ff05cacf8aa7dc188d563</MD5>
+      <SHA1>800c029c2e4c968e5bc2c61cc6696cae7e9739df</SHA1>
+      <DateModified>01/19/2020 15:03:11</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_c_ah64</FileName>
+      <MD5>589b84f2fc155d90a7e7867a137aa8a0</MD5>
+      <SHA1>d4a2cd4c6551c5f177d9bdabcc676e1003be557a</SHA1>
+      <DateModified>01/19/2020 17:00:16</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_c_airweapons</FileName>
+      <MD5>2dfd2f34c1d7b43e84a345abab9b30a6</MD5>
+      <SHA1>9d4c3e57e89153cd09c961037fce7b0b6cfea2a6</SHA1>
+      <DateModified>05/06/2021 16:30:20</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_c_caiman</FileName>
+      <MD5>4e70ac93390a6726dba63b0780732971</MD5>
+      <SHA1>0cb3497448dab4af99f62fbf8bd98ca4f10c44e9</SHA1>
+      <DateModified>05/09/2021 10:17:38</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_c_ch53</FileName>
+      <MD5>55f5b0ab0dfdd2b132764600527dad8b</MD5>
+      <SHA1>48d00c32c896cf822510195fa516076f57421dd6</SHA1>
+      <DateModified>05/09/2021 10:15:55</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_c_commskit</FileName>
+      <MD5>225a44999b94fcc854733c62b9fa9b91</MD5>
+      <SHA1>337c08b48297c321953181bf4c0053e6fac8bf9d</SHA1>
+      <DateModified>12/06/2020 14:57:26</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_c_cougar</FileName>
+      <MD5>9c9a91fcafebaadea88866353c3ce5e5</MD5>
+      <SHA1>2f332df5d4155746c9ded4415c6d9cb14396b992</SHA1>
+      <DateModified>05/09/2021 10:17:04</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_c_f22</FileName>
+      <MD5>7fcd028d26b9bdd683ae3e56def3d63a</MD5>
+      <SHA1>9044c6cab75f8d869bbf44bced7b350e2efeb6b4</SHA1>
+      <DateModified>01/19/2020 15:00:31</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_c_fmtv</FileName>
+      <MD5>47fa3976a34f0713f14ba8cf9c8be3ca</MD5>
+      <SHA1>464242e71284113a9fdcb9c55d5d6112d0916ede</SHA1>
+      <DateModified>05/09/2021 10:16:47</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_c_heavyweapons</FileName>
+      <MD5>a29caad0f321a6f78954e233caf373c9</MD5>
+      <SHA1>a713205ccb94caed1a46695fa67515b9262ae052</SHA1>
+      <DateModified>05/09/2021 09:10:11</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_c_hemtt_a2</FileName>
+      <MD5>76f997fc370c1e3f8bfc51a31d35c511</MD5>
+      <SHA1>716699132dae43690be97beadf8acedcafcbcf4b</SHA1>
+      <DateModified>01/19/2020 17:00:16</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_c_hemtt_a4</FileName>
+      <MD5>01afc638dedab995dbac29523b746bb5</MD5>
+      <SHA1>3b4a7fc62b7a2e870b77a5c0083a5afcbe43c230</SHA1>
+      <DateModified>05/09/2021 10:16:25</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_c_himars</FileName>
+      <MD5>5422d60a1b8fd0dee115e70fa8aa69c7</MD5>
+      <SHA1>15f6c42ef3323185eba40d6dcf1a350b19d6ed18</SHA1>
+      <DateModified>05/09/2021 10:16:13</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_c_hmmwv</FileName>
+      <MD5>e94a1be77f075ee902b887af8f60b699</MD5>
+      <SHA1>6177ad83a92947fe7001b1326f5640869371e604</SHA1>
+      <DateModified>05/09/2021 10:16:53</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_c_identity</FileName>
+      <MD5>10e7ef5f401bf9d6b3bf28e806ee3c50</MD5>
+      <SHA1>0c6f02939dc1a4d1aebf1c3b262d9ece1101eb4a</SHA1>
+      <DateModified>01/19/2020 15:49:21</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_c_m109</FileName>
+      <MD5>26e69ce3758e9afa2b8b315666f482ea</MD5>
+      <SHA1>b4d5ad2b13f3af134da2683a59c2c0123f976f32</SHA1>
+      <DateModified>05/09/2021 10:16:55</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_c_m1117</FileName>
+      <MD5>20896a2d9d75929e8225d59dfdb30089</MD5>
+      <SHA1>21ada4931f0036d8166ad0fbfde0f6daf40f1364</SHA1>
+      <DateModified>05/09/2021 10:15:52</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_c_m113</FileName>
+      <MD5>351e7fab81da9b913a94f72f27148476</MD5>
+      <SHA1>1b37da0535237cb330a7cae44175ef2d671563b1</SHA1>
+      <DateModified>05/09/2021 10:16:41</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_c_m11xx</FileName>
+      <MD5>5171d76336900c4fbce0b586d71cc094</MD5>
+      <SHA1>962a864e0427832b6a64b35f64f2a9a4f2c03bf1</SHA1>
+      <DateModified>05/09/2021 10:16:18</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_c_m1a1</FileName>
+      <MD5>97bd94b9e9bb7f6f0739f3239765f0f8</MD5>
+      <SHA1>814d3b7694f1aeff619cdaa379c5f54a136996a1</SHA1>
+      <DateModified>05/09/2021 10:16:02</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_c_m1a2</FileName>
+      <MD5>7de18eb72194f7c4eb7222228d8a9ed9</MD5>
+      <SHA1>8fc56bedaf76de7e7ca5cf1ba7bfbb2bf00f47f7</SHA1>
+      <DateModified>05/04/2021 17:25:12</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_c_m252</FileName>
+      <MD5>fb65ab611c632d6530b47eacce8e9fdb</MD5>
+      <SHA1>d2129bf6c29feb2f2bfec5dd8ffece898efba6e2</SHA1>
+      <DateModified>05/15/2020 15:14:52</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_c_markvsoc</FileName>
+      <MD5>ed3d7929e0639433b85e53d4cb200b1d</MD5>
+      <SHA1>f11a7f9fa0d0bb205f0209e543bd2dd41568da70</SHA1>
+      <DateModified>03/12/2021 07:49:56</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_c_matv</FileName>
+      <MD5>16bc4d380235717a06ec35f8812919a0</MD5>
+      <SHA1>13c744e6b2a3ea3c0adac76046160c1e2057627e</SHA1>
+      <DateModified>05/09/2021 10:16:22</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_c_melb</FileName>
+      <MD5>bc6f3034a723a1629f6bd171eb8bad54</MD5>
+      <SHA1>306f411e3a219504b6030f8ef03196d556668298</SHA1>
+      <DateModified>05/09/2021 10:16:44</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_c_mrzr</FileName>
+      <MD5>1baa7140900fb73d4d21c0adc046ec2f</MD5>
+      <SHA1>b16d5a81c505c606840d65af4382b8ece265e8ed</SHA1>
+      <DateModified>05/09/2021 10:16:09</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_c_mtvr</FileName>
+      <MD5>29dfc6e18b63b22c3146ecdbf52c1abc</MD5>
+      <SHA1>a5f11955b3038846604042aae726c46f860ee061</SHA1>
+      <DateModified>05/15/2020 15:14:01</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_c_props</FileName>
+      <MD5>67c2021288545c4c628ddde33e65c675</MD5>
+      <SHA1>46f4461792b226272ccfa841aec97822adffc6ea</SHA1>
+      <DateModified>09/11/2020 12:44:17</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_c_radio</FileName>
+      <MD5>e0a3cf4ed5c5ef3a7639a1542a5e78a9</MD5>
+      <SHA1>4b79d04cf9d75f68a05717066213267124bde5e8</SHA1>
+      <DateModified>05/13/2020 17:21:51</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_c_rg33</FileName>
+      <MD5>7883c9e69ab3ec35e81aa1298f1e50cc</MD5>
+      <SHA1>6dd874230fcc7ffb0f78cf41967a87f559f80f67</SHA1>
+      <DateModified>05/09/2021 10:17:07</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_c_rg33l</FileName>
+      <MD5>9c583ff03073f41f69f8ecd076d9c050</MD5>
+      <SHA1>c92440107d7896a1298c16e1eddf13da478ec603</SHA1>
+      <DateModified>05/09/2021 10:16:11</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_c_socomauv</FileName>
+      <MD5>a20c118780ba6efca92bc95087977bc0</MD5>
+      <SHA1>a934e09259d8ec7363b20b53dcdf5aeaba35a7b3</SHA1>
+      <DateModified>05/09/2021 10:16:06</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_c_statics</FileName>
+      <MD5>308cc520f720126f9f8bf808db1f27a5</MD5>
+      <SHA1>2d5174b0c29bfdcc3e03ef4d263ae8adc3c67568</SHA1>
+      <DateModified>03/22/2021 18:32:32</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_c_stryker</FileName>
+      <MD5>1bb6f3fe3b81722372e4871284d1e6ff</MD5>
+      <SHA1>225bc3ed8a777b20ed217fa62e8c856aff5a9fda</SHA1>
+      <DateModified>05/09/2021 10:17:20</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_c_troops</FileName>
+      <MD5>5c9b2e203774290ef2d14b4dab1f0642</MD5>
+      <SHA1>e078ff8a0957403dd42b02b3aad75429f2bb834d</SHA1>
+      <DateModified>04/30/2021 15:31:33</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_c_uav</FileName>
+      <MD5>f5113080dd12281b0a7d47f92f6bfba4</MD5>
+      <SHA1>941ecd0e3ca45022c87b0fc55a8e195050b0bb7f</SHA1>
+      <DateModified>05/16/2020 08:52:14</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_c_vehiclesounds</FileName>
+      <MD5>5922758eb60a09c87cbcafed2bff7ff4</MD5>
+      <SHA1>efb9ccfbc25937908f4d66176b01fd8390c43032</SHA1>
+      <DateModified>01/19/2020 17:43:26</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_c_weapons</FileName>
+      <MD5>65c5587882c9de9b31f871f398619fe0</MD5>
+      <SHA1>9d13b9566b953b75105ede715f89266df61d2f73</SHA1>
+      <DateModified>05/09/2021 08:31:18</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_c_weaponsounds</FileName>
+      <MD5>514f06bb6bdc7e509b3d4d8f73a5cbb8</MD5>
+      <SHA1>4c797a3827810ea86c84c6431c0c46bba488fdb0</SHA1>
+      <DateModified>05/15/2020 15:14:50</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_decals</FileName>
+      <MD5>6cea9c89b8cd06ddbc3dc4187c1b1de5</MD5>
+      <SHA1>dcf0a683ac831997392df7bb63cdea7fdeaf6a44</SHA1>
+      <DateModified>08/12/2020 20:48:39</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_dve</FileName>
+      <MD5>1785f3ba37e0810385f1126c3f195de3</MD5>
+      <SHA1>7f715351b695d4939d9f99c009d7465118ca547e</SHA1>
+      <DateModified>03/30/2020 19:35:16</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_editorpreviews</FileName>
+      <MD5>4cd682705a63414ea5435e5ed67b087a</MD5>
+      <SHA1>65502c8226dd2cded150d7390424aedebe78f16c</SHA1>
+      <DateModified>05/09/2021 09:11:03</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_f22</FileName>
+      <MD5>d96483eed38712881c4c0ea2e8b183dd</MD5>
+      <SHA1>8a65e4a037b827c5e2aad0a606f943c39a656990</SHA1>
+      <DateModified>01/19/2020 15:47:02</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_fmtv</FileName>
+      <MD5>2326e95728eea024820093097a6b2ac7</MD5>
+      <SHA1>3d563defc968d31ae650e5825f2471a4f348a28c</SHA1>
+      <DateModified>11/02/2020 20:22:31</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_heavyweapons</FileName>
+      <MD5>1abd293a47ba5ee024909e946ffea08b</MD5>
+      <SHA1>50e7a2865ae5e400cb70a0080fdcfeda2a000678</SHA1>
+      <DateModified>03/22/2021 18:33:25</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_hemtt_a2</FileName>
+      <MD5>5c8bb67f0f388815cc11002c8dbb7b90</MD5>
+      <SHA1>648867d6509bea799a8a520883fb33633fa4cec5</SHA1>
+      <DateModified>01/19/2020 15:52:48</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_hemtt_a4</FileName>
+      <MD5>12fe7dc9508c34b0f94664f4f0bf2dd2</MD5>
+      <SHA1>8aa73d1ebaed40702b6570b1770ddb1404ce9e54</SHA1>
+      <DateModified>10/07/2020 11:24:55</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_himars</FileName>
+      <MD5>4c25959585f04fe5a0435b54e1984494</MD5>
+      <SHA1>8ba4eb46db321470b8700fe6cf97fda2aab0a996</SHA1>
+      <DateModified>04/18/2020 22:05:37</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_hmmwv</FileName>
+      <MD5>60b875a5fb3732084c213c1b6121d046</MD5>
+      <SHA1>c860f5bbfc43b5cf533577a59e28701f3d13b3f7</SHA1>
+      <DateModified>03/30/2021 22:12:37</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_infantry</FileName>
+      <MD5>018712d7667eb67a7cf0e57e65f0ce1f</MD5>
+      <SHA1>e47f9667a4f8b70f7b56ba43e3a696161474de32</SHA1>
+      <DateModified>01/13/2021 20:37:30</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_infantry2</FileName>
+      <MD5>719aaca5bac1bb7a135b9ade620dfb38</MD5>
+      <SHA1>79000fdb9a52d8ec73c05e7d794c1e1ae59835da</SHA1>
+      <DateModified>03/17/2021 12:14:17</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_infantry3</FileName>
+      <MD5>3bdbc55228a666d64c4415d9d59a45a7</MD5>
+      <SHA1>5cc710da3b7504ec2612f0e3d84e6db7d30d78c7</SHA1>
+      <DateModified>05/03/2020 14:01:02</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_inventoryicons</FileName>
+      <MD5>3b8ee04c676b3454c5d4fdc6e0da5fca</MD5>
+      <SHA1>99b81a23fa240f02893c7cf3484a9507bedb8a8a</SHA1>
+      <DateModified>04/02/2021 11:54:05</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_m109</FileName>
+      <MD5>9192530e58a7d6a148a5eb3aa3b4642c</MD5>
+      <SHA1>d4a3c25b9768f3124d6b3ce52602fbd51658352b</SHA1>
+      <DateModified>04/18/2020 22:24:10</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_m1117</FileName>
+      <MD5>b7ac881757746e551f098b086c93964d</MD5>
+      <SHA1>b80a0de9e284942f4c02286ea66f156e7c544eb8</SHA1>
+      <DateModified>02/25/2020 09:33:13</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_m113</FileName>
+      <MD5>295dab5061bdf94abd6997f618655c3d</MD5>
+      <SHA1>ded821b67b607f6204126c63a056d36aabe04190</SHA1>
+      <DateModified>10/26/2020 19:52:11</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_m1165</FileName>
+      <MD5>f464546258287cb97c2af44b3c3659ff</MD5>
+      <SHA1>e2b1f231037ff59adf1eaa0232a3bc3c86ee0e7a</SHA1>
+      <DateModified>04/30/2021 09:36:42</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_m11xx</FileName>
+      <MD5>547bcea258ea84b06b5ed970ec9bbb60</MD5>
+      <SHA1>07e2bc3ede191de010308fea088c5ceb50bdefbe</SHA1>
+      <DateModified>03/30/2021 22:35:58</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_m1a1</FileName>
+      <MD5>683f3f0648464758896129f2314220fb</MD5>
+      <SHA1>7ef45ec5de5878e51ac3ab659cc14b5ac47c795e</SHA1>
+      <DateModified>03/22/2021 18:56:16</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_m1a2</FileName>
+      <MD5>055c0fa018bc98b5f506bd75b7705a67</MD5>
+      <SHA1>6aa808e46d9fbc8c4fd7f4db45f55bd35d36e15b</SHA1>
+      <DateModified>05/06/2021 18:46:21</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_m252</FileName>
+      <MD5>efe04b213d8d1a7a3c96740c4c92e612</MD5>
+      <SHA1>d90869e8681ae18974bce5d69a594fa4f057efc4</SHA1>
+      <DateModified>01/19/2020 17:06:33</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_main</FileName>
+      <MD5>3800dc98557dfa6d2ccf2b7595dee1f7</MD5>
+      <SHA1>3d2078fb1715494cb25c56afcc779a51128b5054</SHA1>
+      <DateModified>05/09/2021 10:16:37</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_markvsoc</FileName>
+      <MD5>7d0737339c8c5add58c6073d3b878a71</MD5>
+      <SHA1>2c782a8ee25b3f3bfa94a4008062371d814ead08</SHA1>
+      <DateModified>01/19/2020 14:45:26</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_matv</FileName>
+      <MD5>ada836884bc0d3919db464f9025679f1</MD5>
+      <SHA1>311319e115631f8c7c2351e2296d76fb34e29405</SHA1>
+      <DateModified>04/03/2021 21:35:19</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_melb</FileName>
+      <MD5>78e7cb75302d9a343cab6cde054c650a</MD5>
+      <SHA1>8cee2a5a56028580ec3876b0ecf28a1efed7af81</SHA1>
+      <DateModified>11/04/2020 20:16:27</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_mrzr</FileName>
+      <MD5>f36d8df92f208be30780f9c164fe58fb</MD5>
+      <SHA1>fb985f1aac309d6c4ba9df6dcd80ce0a0ae99486</SHA1>
+      <DateModified>03/24/2021 20:01:33</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_mtvr</FileName>
+      <MD5>8f130659af194597c2a745f460c6d4b7</MD5>
+      <SHA1>3d6e68bb23227ea092da93f0f6cb5f23781899c5</SHA1>
+      <DateModified>01/19/2020 16:34:00</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_mtvr_tx</FileName>
+      <MD5>d75527a95c8b81b464ae734b3fc1456d</MD5>
+      <SHA1>ffa037f96c46a92f79d00b1e79203d6c31438753</SHA1>
+      <DateModified>01/19/2020 17:34:32</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_muzzleflash</FileName>
+      <MD5>2a5b85198d0cb58738f310f6574bc99e</MD5>
+      <SHA1>71c35b2e3a1db7974d7d1202b6c79275b2d38f55</SHA1>
+      <DateModified>02/03/2021 22:00:10</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_optics</FileName>
+      <MD5>4f9c91397add5d90be78e2c3e6d535db</MD5>
+      <SHA1>667a127b3b7d0aa404d031243aef71134ff31ba7</SHA1>
+      <DateModified>04/28/2021 16:55:46</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_props</FileName>
+      <MD5>0be3d73d75b20f4caea5fc24aa9d878b</MD5>
+      <SHA1>c15ee4d50266f07521f2db7367d5ec9618c8d6d7</SHA1>
+      <DateModified>10/13/2020 15:53:02</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_radio</FileName>
+      <MD5>46262430b5accc20ad11e1e960708b10</MD5>
+      <SHA1>d18699ae76be1ed6796fd5674a94a7120103fde6</SHA1>
+      <DateModified>01/19/2020 15:49:27</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_rg33</FileName>
+      <MD5>fa71617ef86e275511848108f83aef2e</MD5>
+      <SHA1>da718303c6e8fbbfab62395ca4315ceb8318a3f1</SHA1>
+      <DateModified>04/28/2021 17:14:33</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_rg33l</FileName>
+      <MD5>5e45f0400448796f32c1e34ac70c3739</MD5>
+      <SHA1>56032821086ff9328eb8aea74f77ee255986e676</SHA1>
+      <DateModified>11/24/2020 14:00:47</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_scopes</FileName>
+      <MD5>45604a53c135d5d31696c1f774fd7e15</MD5>
+      <SHA1>1e24bf9ff2fcd41703831c6ba1c1e6b4c37e7e58</SHA1>
+      <DateModified>03/09/2021 22:48:34</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_socomauv</FileName>
+      <MD5>34cea42cc33b482b48ad40833ff42984</MD5>
+      <SHA1>f533a5eb4c5e97009d19eacb2bb03345034b62d1</SHA1>
+      <DateModified>11/24/2020 13:36:07</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_sounds</FileName>
+      <MD5>9b09b656f4ccef35377f6d2d4bcfce54</MD5>
+      <SHA1>b46ee515f31d4acd8bc21de1b28b23e04e11af37</SHA1>
+      <DateModified>03/20/2021 18:13:28</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_stryker</FileName>
+      <MD5>b00b29672167aceb660599dc2031afd0</MD5>
+      <SHA1>208a01a7bc4ec1261492b6b0de7fad8224281b46</SHA1>
+      <DateModified>04/28/2021 16:55:09</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_s_radio</FileName>
+      <MD5>eae4d18b04f65cf7a1ea9b665e78285d</MD5>
+      <SHA1>7c726bcffefd0236a5697e72c562b21babe350da</SHA1>
+      <DateModified>01/19/2020 15:40:11</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_s_vehiclesounds</FileName>
+      <MD5>a7a3a39e5a6ecdde183b37a6c0c4509c</MD5>
+      <SHA1>b9b1fd1edb30a86dec0a652c3d77085b31cbccab</SHA1>
+      <DateModified>01/19/2020 15:03:10</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_s_weaponsounds</FileName>
+      <MD5>00f9b8deff09e18ed83f9fe8687bee7f</MD5>
+      <SHA1>88ef55f94bb1e65a3fc0cfdeffec0763cb242136</SHA1>
+      <DateModified>01/19/2020 15:21:35</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_uav</FileName>
+      <MD5>7593e4cecc010ebf70d56ca907697a01</MD5>
+      <SHA1>17efd1137edf1a73146c2b1aeb4f39b88632abf7</SHA1>
+      <DateModified>01/19/2020 16:36:40</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_weapons</FileName>
+      <MD5>b7df29edfce650e7efb8d979bfe2bc71</MD5>
+      <SHA1>75a21615d5eca38186c1088b4e5229664861128f</SHA1>
+      <DateModified>04/28/2021 17:11:36</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_weapons2</FileName>
+      <MD5>a9220f590ac0c5a95860044c5260c14a</MD5>
+      <SHA1>2df54b06dcc998fb68526af95bebb95744cb56b8</SHA1>
+      <DateModified>03/26/2021 21:48:55</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_weapons3</FileName>
+      <MD5>13a627d961325db3ccb9ba0cb9673512</MD5>
+      <SHA1>17e0e60466c26a00c29eb82896a47c5b6abbc46b</SHA1>
+      <DateModified>05/03/2021 16:05:24</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_weapon_sounds</FileName>
+      <MD5>53bcd335633e1dab750975fbe75d789f</MD5>
+      <SHA1>682f6489b27f3346f5c0a6883b70f3b694a879b9</SHA1>
+      <DateModified>05/15/2020 15:14:27</DateModified>
+    </File>
+    <File>
+      <FileName>rhsusf_xmas</FileName>
+      <MD5>03bd57e297c932500d40dc6666904822</MD5>
+      <SHA1>05e6c67449b4b03ca06026f84eda5cb72daa4286</SHA1>
+      <DateModified>01/19/2020 17:36:04</DateModified>
+    </File>
+  </Files>
+</BuildFile>
